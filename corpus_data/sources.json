@@ -1,0 +1,731 @@
+[
+  {
+    "id": "met-textiles",
+    "title": "Indian Textiles: Trade and Production — The Met",
+    "url": "https://www.metmuseum.org/essays/indian-textiles-trade-and-production",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research01.txt",
+    "support_scope": "Cotton textiles, kalamkari, mordant/resist processes, weaving and export terminology."
+  },
+  {
+    "id": "va-textiles",
+    "title": "Indian textiles — V&A",
+    "url": "https://www.vam.ac.uk/articles/indian-textiles/",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research01.txt",
+    "support_scope": "Export markets predate European maritime arrival; painted and dyed cotton exported for overseas dress."
+  },
+  {
+    "id": "met-dyes",
+    "title": "Sylvia Houghteling, Painting with Dyes in Early Modern South Asia",
+    "url": "https://www.metmuseum.org/pt/perspectives/painting-with-dyes-early-modern-south-asia",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "web_open",
+    "research_log": "corpus_data/research_logs/research15.txt",
+    "support_scope": "Painter/dyer collaboration, local resources and international markets; specific Met hanging 20.79."
+  },
+  {
+    "id": "va-print",
+    "title": "What is print? — V&A",
+    "url": "https://www.vam.ac.uk/articles/what-is-print",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "web_open",
+    "research_log": "corpus_data/research_logs/research19.txt",
+    "support_scope": "Relief/intaglio/planographic distinctions; engraving, etching, drypoint and lithography."
+  },
+  {
+    "id": "met-deccan",
+    "title": "Islamic Art of the Deccan — The Met",
+    "url": "https://www.metmuseum.org/essays/islamic-art-of-the-deccan",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research01.txt",
+    "support_scope": "Bidri alloy/inlay and blackening; Persianate Deccani court culture. Not used for an exact conquest chronology."
+  },
+  {
+    "id": "met-mughal-pre",
+    "title": "The Art of the Mughals before 1600 — The Met",
+    "url": "https://www.metmuseum.org/essays/the-art-of-the-mughals-before-1600",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research01.txt",
+    "support_scope": "Akbar’s royal atelier combined Persian, Indian and European elements."
+  },
+  {
+    "id": "met-mughal-post",
+    "title": "The Art of the Mughals after 1600 — The Met",
+    "url": "https://www.metmuseum.org/essays/the-art-of-the-mughals-after-1600",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research01.txt",
+    "support_scope": "Jahangir’s patronage, individual artists, animal/plant studies, Europeanized subjects and albums."
+  },
+  {
+    "id": "met-cassatt-state",
+    "title": "Mary Cassatt, The Letter, first state — The Met",
+    "url": "https://www.metmuseum.org/art/collection/search/352204",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research02.txt",
+    "support_scope": "1890–91; inspiration from the 1890 Japanese print exhibition; first state is drypoint, not the final colour impression."
+  },
+  {
+    "id": "nga-cassatt",
+    "title": "Mary Cassatt, The Letter — National Gallery of Art",
+    "url": "https://www.nga.gov/artworks/168826-letter",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research02.txt",
+    "support_scope": "Final colour print uses softground etching, drypoint and aquatint; distinct from Japanese woodblock technique."
+  },
+  {
+    "id": "mfa-japonaise",
+    "title": "La Japonaise — Museum of Fine Arts, Boston",
+    "url": "https://collections.mfa.org/objects/33556/la-japonaise-camille-monet-in-japanese-costume",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research02.txt",
+    "support_scope": "1876, oil on canvas, Camille in a blond wig, Japanese costume and Parisian taste; accession 56.147."
+  },
+  {
+    "id": "si-malik",
+    "title": "Jahangir shooting the head of Malik Ambar — National Museum of Asian Art",
+    "url": "https://asia.si.edu/explore-art-culture/collections/search/edanmdm%3Afsg_F1948.19a/",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research02.txt",
+    "support_scope": "Identity of painting F1948.19a; globe supported by bull and fish."
+  },
+  {
+    "id": "si-belitung",
+    "title": "Shipwrecked: Tang Treasures and Monsoon Winds — introduction",
+    "url": "https://archive.asia.si.edu/Shipwrecked/downloads/01Intro.pdf",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research02.txt",
+    "support_scope": "Changsha cargo, large-scale production, underglaze painting, export trade and dated bowl of 826; sinking date approximate."
+  },
+  {
+    "id": "hampi-pai",
+    "title": "Radhika Pai, Art and architecture of the Vijayanagara empire — Smarthistory",
+    "url": "https://smarthistory.org/art-and-architecture-of-vijayanagara-empire/",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research03.txt",
+    "support_scope": "Scholarly account of Indic and Islamicate vocabulary combined in Lotus Mahal and Queen’s Bath."
+  },
+  {
+    "id": "hampi-government",
+    "title": "Lotus Mahal Pavilion — Karnataka Tourism",
+    "url": "https://hampi360.com/44lotusmahal.html",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research03.txt",
+    "support_scope": "Recessed plan, pillars, foliated arches, vaulted upper spaces and pyramidal superstructures; not evidence for every popular function claim."
+  },
+  {
+    "id": "asi-hampi",
+    "title": "Hampi — Archaeological Survey of India",
+    "url": "https://asi.nic.in/pages/WorldHeritageHampi",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research03.txt",
+    "support_scope": "Royal/sacred complexes, relief programme, Mahanavami platform, bazaar mandapas, temple towers and tank."
+  },
+  {
+    "id": "unesco-hampi",
+    "title": "Group of Monuments at Hampi — UNESCO",
+    "url": "https://whc.unesco.org/en/list/241/",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research03.txt",
+    "support_scope": "Landscape, temple complexes, hydraulic systems and entrance towers."
+  },
+  {
+    "id": "met-mihrab",
+    "title": "Mihrab (Prayer Niche) — The Met",
+    "url": "https://www.metmuseum.org/art/collection/search/449537?gallerynos=455",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research03.txt",
+    "support_scope": "Mihrab indicates the direction of Mecca; prayer orientation rather than a doorway."
+  },
+  {
+    "id": "met-islamic-context",
+    "title": "Islamic Art in The Metropolitan Museum: The Historical Context",
+    "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Islamic_art_in_the_Metropolitan_Museum_the_historical_context.pdf",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research03.txt",
+    "support_scope": "Mihrab, qibla and vaulted iwan arranged around a courtyard."
+  },
+  {
+    "id": "met-deccan-catalogue",
+    "title": "Sultans of Deccan India, 1500–1700: Opulence and Fantasy",
+    "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Sultans_of_Deccan_India_1500_1700.pdf",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research10.txt",
+    "support_scope": "Abri essay pp.157–159; gandaberunda tent panel cat.165; ascetic/nag interpretation. Interpretive alternatives retained."
+  },
+  {
+    "id": "met-tent-checklist",
+    "title": "Sultans of Deccan India — annotated exhibition checklist",
+    "url": "https://libmma.contentdm.oclc.org/digital/api/collection/p16028coll12/id/13985/download",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research04.txt",
+    "support_scope": "Gandaberunda panel as probable tent lining and army-encampment context; reconstructed multi-panel kalamkari."
+  },
+  {
+    "id": "npm-gandaberunda",
+    "title": "Palampore with bird and flower motifs — National Palace Museum",
+    "url": "https://theme.npm.edu.tw/selection/Article.aspx?lang=2&sNo=04009362",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research04.txt",
+    "support_scope": "Double-headed bird has different meanings in Indian, European and Japanese reception; heraldic textiles, palampore function."
+  },
+  {
+    "id": "tm-cloud",
+    "title": "Cloud Collar — Textile Museum of Canada",
+    "url": "https://collections.textilemuseum.ca/collection/6365/",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research04.txt",
+    "support_scope": "Lobed collar form and dress function; interpretation belongs to the documented Chinese example."
+  },
+  {
+    "id": "cammann-cloud",
+    "title": "Schuyler Cammann, The Symbolism of the Cloud Collar Motif",
+    "url": "https://doi.org/10.1080/00043079.1951.11408018",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research04.txt",
+    "support_scope": "Four/eight lobed pattern, wide Asian circulation and historically changing meanings; abstract accessed."
+  },
+  {
+    "id": "met-still-life",
+    "title": "Still-Life Painting in Northern Europe, 1600–1800 — The Met",
+    "url": "https://www.metmuseum.org/essays/still-life-painting-in-northern-europe-1600-1800",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research05.txt",
+    "support_scope": "Urban possessions/trade; pronk display, imported porcelain and fruits; moralizing and vanitas contexts."
+  },
+  {
+    "id": "met-japonisme",
+    "title": "Japonisme — The Met",
+    "url": "https://www.metmuseum.org/ja/essays/japonisme",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research05.txt",
+    "support_scope": "European reception of Japanese objects, unusual viewpoints, decorative contour and different responses in printmaking."
+  },
+  {
+    "id": "va-kalighat",
+    "title": "Kalighat painting — V&A",
+    "url": "https://www.vam.ac.uk/articles/kalighat-painting",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "web_open",
+    "research_log": "corpus_data/research_logs/research07.txt",
+    "support_scope": "Patua production, plain backgrounds, bold contours, urban pilgrimage markets and changing themes."
+  },
+  {
+    "id": "cleveland-kalighat",
+    "title": "Indian Kalighat Paintings — Cleveland Museum of Art",
+    "url": "https://www.clevelandart.org/articles/indian-kalighat-paintings",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research05.txt",
+    "support_scope": "Religious imagery and satire of changing social order; hybrid dress of the babu."
+  },
+  {
+    "id": "rom-elokeshi",
+    "title": "Kalighat Paintings: Murder in the Collection — ROM",
+    "url": "https://www.rom.on.ca/blogs/kalighat-paintings-murder-collection",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research05.txt",
+    "support_scope": "Mahant/Elokeshi narrative; distinct scenes; qualifications about offered drink."
+  },
+  {
+    "id": "gol-government",
+    "title": "Gol Gumbaz — Vijayapura District",
+    "url": "https://vijayapura.nic.in/en/tourist-place/gol-gumbaz/",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research06.txt",
+    "support_scope": "Muhammad Adil Shah’s tomb and whispering gallery. Conflicting echo counts on this page are deliberately not adopted."
+  },
+  {
+    "id": "walters-sarasvati",
+    "title": "Sarasvati — Walters Art Museum, 25.50",
+    "url": "https://art.thewalters.org/object/25.50/",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research06.txt",
+    "support_scope": "Sarasvati and Ibrahim Adil Shah II’s musical devotion; comparative context, not the slide painting’s catalogue."
+  },
+  {
+    "id": "ashurkhana-report",
+    "title": "Qutb Shahi Heritage Park, Annual Report 2021",
+    "url": "https://www.qutbshahiheritagepark.org/storage/publication/Annual-Report-2021-QSHP.pdf",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research06.txt",
+    "support_scope": "Ashurkhana as mourning space containing alams associated with Husayn and Karbala."
+  },
+  {
+    "id": "met-kali-tara",
+    "title": "Diptych of Kali / Tara, wrathful protectors — The Met",
+    "url": "https://www.metmuseum.org/art/collection/search/786756",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "web_open",
+    "research_log": "corpus_data/research_logs/research07.txt",
+    "support_scope": "Calcutta Art Studio, 1885–90, chromolithograph; Mahavidya context; Kali and Tara’s distinct attributes; accession 2018.292."
+  },
+  {
+    "id": "met-ukiyoe",
+    "title": "Woodblock Prints in the Ukiyo-e Style — The Met",
+    "url": "https://www.metmuseum.org/essays/woodblock-prints-in-the-ukiyo-e-style",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "web_open",
+    "research_log": "corpus_data/research_logs/research07.txt",
+    "support_scope": "Designer/carver/printer/publisher collaboration; colour blocks and alignment guides; commercial subjects and editions."
+  },
+  {
+    "id": "met-sufi",
+    "title": "Art of the Sufis — The Met",
+    "url": "https://www.metmuseum.org/ja/essays/art-of-the-sufis",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research08.txt",
+    "support_scope": "Silsila as spiritual transmission through masters; ritual objects and ego-renunciation."
+  },
+  {
+    "id": "owl-study",
+    "title": "The Owl and the Occult — Comparative Studies in Society and History",
+    "url": "https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/owl-and-the-occult-popular-politics-and-social-liminality-in-early-modern-south-asia/A6FCC4AB12B8787FBCFC424F775C5E06",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research08.txt",
+    "support_scope": "Jahangir’s owl association with Malik Ambar, hostile magical imagery and unfulfilled military triumph."
+  },
+  {
+    "id": "lacma-poverty",
+    "title": "Emperor Jahangir Triumphing Over Poverty — LACMA",
+    "url": "https://collections.lacma.org/object/34094",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research08.txt",
+    "support_scope": "Comparative allegory: imperial globe, lion/lamb, cosmic fish and chain of justice. Not the same painting as the slide target."
+  },
+  {
+    "id": "whc-walrus",
+    "title": "Ali Gibran Siddiqui, The Walrus and the Emperor — World History Connected",
+    "url": "https://journals.gmu.edu/whc/article/download/4117/2316",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research08.txt",
+    "support_scope": "Jahangir/Shah Abbas hierarchy and universal kingship in globe allegory."
+  },
+  {
+    "id": "met-yali",
+    "title": "Dagger with Yali Hilt — The Met",
+    "url": "https://www.metmuseum.org/art/collection/search/872977",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research09.txt",
+    "support_scope": "Yali as variable composite lion/elephant/horse creature and auspicious southern architectural motif; comparative later dagger."
+  },
+  {
+    "id": "goa-hero",
+    "title": "Hero Stone — ASI Goa / Museums of India",
+    "url": "https://www.museumsofindia.gov.in/repository/record/gom_goa-acc-no-0036-34",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research09.txt",
+    "support_scope": "Register-based memorial narrative; example separate from Hampi slides."
+  },
+  {
+    "id": "wootz-study",
+    "title": "Srinivasan and Ranganathan, Wootz Steel: An Advanced Material of the Ancient World",
+    "url": "https://www.tf.uni-kiel.de/matwis/amat/def_en/articles/wootz_advanced_material/wootz_steel.html",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research09.txt",
+    "support_scope": "Indian crucible steel and international circulation; not an authentication of the pictured blade."
+  },
+  {
+    "id": "met-farrukh",
+    "title": "Wonder of the Age: Master Painters of India, 1100–1900",
+    "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Wonder_of_the_Age_Master_Painters_of_India_1100_1900.pdf",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research10.txt",
+    "support_scope": "Cat.24, p.67: presumed self-portrait, c.1615, Seitz collection; inscription ambiguity and album context."
+  },
+  {
+    "id": "wagoner-dress",
+    "title": "Phillip B. Wagoner, Sultan among Hindu Kings — scholarly abstract",
+    "url": "https://architexturez.net/doc/10-2307/2646526?qt-az_cf_core_recommended_content_t=0",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research11.txt",
+    "support_scope": "Long tunic and conical cap as adoption of Islamicate courtly forms; abstract, not full article."
+  },
+  {
+    "id": "mpg-silk",
+    "title": "The Culture and Economics of Silk Weaving During the Vijayanagar Era — Max Planck Research Library",
+    "url": "https://www.mprl-series.mpg.de/media/studies/13/5/studies13_chap05.pdf",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research11.txt",
+    "support_scope": "Lepakshi murals, kabayi and kullayi; textiles and courtly self-presentation."
+  },
+  {
+    "id": "getty-beato",
+    "title": "Felice Beato: A Photographer on the Eastern Road — Getty checklist",
+    "url": "https://www.getty.edu/art/exhibitions/beato/beato_checklist.pdf",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research11.txt",
+    "support_scope": "Hand-coloured albumen photographs; photographic process distinct from later applied colour."
+  },
+  {
+    "id": "ludwig-beato",
+    "title": "Voiceover: Felice Beato in Japan — Museum Ludwig",
+    "url": "https://www.museum-ludwig.de/en/ausstellungen/archiv/2022/voiceover-felice-beato-in-japan",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research11.txt",
+    "support_scope": "Beato photographs and collaborative colourists; mediation of Japanese subjects."
+  },
+  {
+    "id": "met-calligraphy",
+    "title": "Calligraphy in Islamic Art — The Met",
+    "url": "https://www.metmuseum.org/essays/calligraphy-in-islamic-art",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "web_open",
+    "research_log": "corpus_data/research_logs/research12.txt",
+    "support_scope": "Writing transmits text and functions as ornament; framed specimens and ornamental transformations."
+  },
+  {
+    "id": "met-vegetal",
+    "title": "Vegetal Patterns in Islamic Art — The Met",
+    "url": "https://www.metmuseum.org/essays/vegetal-patterns-in-islamic-art",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "web_open",
+    "research_log": "corpus_data/research_logs/research12.txt",
+    "support_scope": "Circulating vegetal patterns; no default fixed symbolism for each flower."
+  },
+  {
+    "id": "met-figural",
+    "title": "Figural Representation in Islamic Art — The Met",
+    "url": "https://www.metmuseum.org/essays/figural-representation-in-islamic-art",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "web_open",
+    "research_log": "corpus_data/research_logs/research12.txt",
+    "support_scope": "Animal/human forms occur across secular decorative arts and manuscripts; not a universal symbolic code."
+  },
+  {
+    "id": "met-orientalism",
+    "title": "Orientalism: Visions of the East in Western Dress — The Met",
+    "url": "https://www.metmuseum.org/essays/orientalism-visions-of-the-east-in-western-dress",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research13.txt",
+    "support_scope": "Western constructions of an imagined East and unequal power; not a definition of the course’s Occidentalism."
+  },
+  {
+    "id": "met-phoenix",
+    "title": "Art of the Islamic World, Unit 7 — The Met educator resource",
+    "url": "https://www.metmuseum.org/-/media/files/learn/for%20educators/publications%20for%20educators/islamic%20teacher%20resource/unit7.pdf",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research13.txt",
+    "support_scope": "Dragon/phoenix motifs between China and Iran; transformed cultural contexts."
+  },
+  {
+    "id": "si-simurgh",
+    "title": "Zal and the Simurgh — Smithsonian",
+    "url": "https://asia-archive.si.edu/learn/shahnama/zal-and-the-simurgh/",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research13.txt",
+    "support_scope": "Simurgh protects and raises Zal in the Shahnameh; not a synonym for every fantastic bird."
+  },
+  {
+    "id": "unesco-garden",
+    "title": "The Persian Garden — UNESCO",
+    "url": "https://whc.unesco.org/en/list/1372/",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "web_open",
+    "research_log": "corpus_data/research_logs/research15.txt",
+    "support_scope": "Chahar bagh geometry, water management, paradise associations and influence beyond Iran."
+  },
+  {
+    "id": "rijks-asia",
+    "title": "Asia in Amsterdam — Rijksmuseum Bulletin editorial",
+    "url": "https://bulletin.rijksmuseum.nl/article/download/9834/10330/16231",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research14.txt",
+    "support_scope": "Exhibition linked imported Asian luxury goods with Dutch art and consumption."
+  },
+  {
+    "id": "tallur-linden",
+    "title": "L. N. Tallur: Veni, Vidi, Vici — Linden-Museum",
+    "url": "https://lindenmuseum.de/l-n-tallur/?lang=en",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research14.txt",
+    "support_scope": "Mission tile manufacture using local clay and European technology; later installation combines colonial histories."
+  },
+  {
+    "id": "tallur-biennale",
+    "title": "Veni, vidi, vici — Kochi-Muziris Biennale collection",
+    "url": "https://artsandculture.google.com/asset/veni-vidi-vici-i-came-i-saw-i-conquered-l-n-tallur/fAFkD9LZWPURNQ",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research14.txt",
+    "support_scope": "Biennale primary catalogue: site-specific installation, terracotta roof tiles and iron, Aspinwall House, 2012–13. Unrelated medical claims in description not used."
+  },
+  {
+    "id": "met-goldsmith",
+    "title": "Petrus Christus, A Goldsmith in his Shop — The Met",
+    "url": "https://www.metmuseum.org/art/collection/search/459052",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research16.txt",
+    "support_scope": "Convex mirror and weighing scene; possible moral interpretation; later halo removed; specific sitter identities tentative."
+  },
+  {
+    "id": "rbge-roxburgh",
+    "title": "Indian Collections — Royal Botanic Garden Edinburgh",
+    "url": "https://www.rbge.org.uk/science-and-conservation/library-and-archives/library-collections/image-collection/indian-collections/",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research16.txt",
+    "support_scope": "Roxburgh commissioned drawings from Indian artists; author/commissioner distinct from image maker."
+  },
+  {
+    "id": "iranica-qalamzani",
+    "title": "Isfahan XIII: Crafts — Encyclopaedia Iranica",
+    "url": "https://www.iranicaonline.org/articles/isfahan-xiii-crafts/?generate_pdf=1",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research17.txt",
+    "support_scope": "Qalamzani includes embossing and engraving in metals; not identical to kalamkari textile work."
+  },
+  {
+    "id": "ngv-luna",
+    "title": "Sebald Beham, Luna — National Gallery of Victoria",
+    "url": "https://www.ngv.vic.gov.au/explore/collection/work/32143/",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research17.txt",
+    "support_scope": "1539 engraving from Seven Planets; LVNA, crescent and Cancer sign; this does not catalogue the remounted Gulshan impression."
+  },
+  {
+    "id": "met-hindu",
+    "title": "Vidya Dehejia, Hinduism and Hindu Art — The Met",
+    "url": "https://www.metmuseum.org/essays/hinduism-and-hindu-art",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research18.txt",
+    "support_scope": "Multiple arms/heads, temple sculpture and sacred/secular themes; deity-specific interpretation still required."
+  },
+  {
+    "id": "lacma-jain",
+    "title": "Jain Altarpiece — LACMA",
+    "url": "https://collections.lacma.org/object/28888",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research18.txt",
+    "support_scope": "Jina imagery; clothed figures and Svetambara context; no identification of the unverified Pune print."
+  },
+  {
+    "id": "ng-leonardo",
+    "title": "Leonardo, The Virgin of the Rocks — National Gallery",
+    "url": "https://www.nationalgallery.org.uk/paintings/leonardo-da-vinci-the-virgin-of-the-rocks?mibextid=Zxz2cZ",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research18.txt",
+    "support_scope": "Chiaroscuro and sfumato distinguish light modelling and softened contours; this page concerns the London version."
+  },
+  {
+    "id": "va-africans",
+    "title": "V&A trail: Africans in Europe",
+    "url": "https://www.vam.ac.uk/articles/va-trail-africans-in-europe",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research18.txt",
+    "support_scope": "Comparative account names Ethiopian commander Malik Ambar and African political power in India."
+  },
+  {
+    "id": "met-shahjahan",
+    "title": "Chitarman, Shah Jahan holding a portrait pendant — The Met",
+    "url": "https://www.metmuseum.org/art/collection/search/451270",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "web_open",
+    "research_log": "corpus_data/research_logs/research19.txt",
+    "support_scope": "1627–28 recto, medium, imperial halo/European angels, many court crafts represented; 55.121.10.24."
+  },
+  {
+    "id": "met-peacock-script",
+    "title": "Calligraphic Composition in Shape of Peacock — The Met",
+    "url": "https://www.metmuseum.org/art/collection/search/451978",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "web_open",
+    "research_log": "corpus_data/research_logs/research19.txt",
+    "support_scope": "A documented zoomorphic calligraphic composition; not a translation of the slide’s horse-shaped script."
+  },
+  {
+    "id": "moma-lewitt",
+    "title": "Sol LeWitt — MoMA catalogue, including Paragraphs on Conceptual Art",
+    "url": "https://www.moma.org/documents/moma_catalogue_1971_300297572.pdf",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research20.txt",
+    "support_scope": "Artist’s account distinguishes prior conception and physical execution; not an attribution of anonymous slide installations."
+  },
+  {
+    "id": "sas-colour",
+    "title": "Savage and Grasselli, Tools, Machines, and Techniques for Printing Colour",
+    "url": "https://sas-space.sas.ac.uk/10200/7/Tools%2C%20Machines%2C%20and%20Techniques%20for%20Printing%20Colour%20in%2018th-Century%20Europe%2C%20in%20Printing%20Colour%201700%E2%80%931830%2C%20pp%2021%E2%80%9351.pdf",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research20.txt",
+    "support_scope": "Colour lithography with successive stones; technological history and mass circulation."
+  },
+  {
+    "id": "met-carpets",
+    "title": "Carpets from the Islamic World, 1600–1800 — The Met",
+    "url": "https://www.metmuseum.org/es/essays/carpets-from-the-islamic-world-1600-1800",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research21.txt",
+    "support_scope": "Court workshops, international trade and European display of carpets on tables and walls."
+  },
+  {
+    "id": "sam-palampore",
+    "title": "Palampore (bed covering) — Seattle Art Museum",
+    "url": "https://art.seattleartmuseum.org/objects/6431/palampore-bed-covering",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research21.txt",
+    "support_scope": "Palampore function and painted, mordant/resist-dyed cotton."
+  },
+  {
+    "id": "rom-flowers",
+    "title": "Ask ROM Anything: Deborah Metsger",
+    "url": "https://www.rom.on.ca/learn/resources/ask-rom-anything-deborah-metsger-0",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research21.txt",
+    "support_scope": "Botanical sources and transformation in chintz; flowers do not have one universal interpretation."
+  },
+  {
+    "id": "met-mannen",
+    "title": "Hokusai, Under the Mannen Bridge at Fukagawa — The Met",
+    "url": "https://www.metmuseum.org/art/collection/search/55289?searchField=ArtistCulture",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research22.txt",
+    "support_scope": "Ca.1830–32, woodblock print, Thirty-six Views of Mount Fuji, JP1332."
+  },
+  {
+    "id": "nature-firangi",
+    "title": "Dutch or Iranian? Technical study of a seventeenth-century painting on paper",
+    "url": "https://www.nature.com/articles/s40494-021-00577-2",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research22.txt",
+    "support_scope": "Firangi-sazi and imported European prints; technical study rather than visual resemblance alone."
+  },
+  {
+    "id": "bl-daniell",
+    "title": "Antiquities of India title sheet — British Library collection record",
+    "url": "https://flickr.com/photos/britishlibrary/51195121554/in/album-72157719511098213",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research22.txt",
+    "support_scope": "Institution-published record: title sheet 15 October 1799, etching and aquatint; shelfmark 10 TAB.30.(3)."
+  },
+  {
+    "id": "va-muslin",
+    "title": "Perfect partners: Muslin and cashmere — V&A",
+    "url": "https://www.vam.ac.uk/blog/fabric-of-india/guest-post-perfect-partners-muslin-and-cashmere",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research23.txt",
+    "support_scope": "Fine translucent cotton muslin imported from India and later imitated in Britain."
+  },
+  {
+    "id": "met-chakravartin",
+    "title": "Tree & Serpent visiting guide — The Met",
+    "url": "https://www.metmuseum.org/ja/exhibitions/tree-and-serpent/visiting-guide",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research23.txt",
+    "support_scope": "Wheel-turning universal monarch and Buddhist adaptation of royal imagery."
+  },
+  {
+    "id": "map-pineapple",
+    "title": "Pineapples in Focus — MAP and Museum of Christian Art",
+    "url": "https://www.youtube.com/watch?v=BYv4ZIBaMfc",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "video_description",
+    "research_log": "corpus_data/research_logs/research23.txt",
+    "support_scope": "Museum-authored description of comparison between kalamkari palampore and chasuble; changing symbolic meanings. Description accessed, not video transcript."
+  },
+  {
+    "id": "ucsb-picturesque",
+    "title": "Travel & the Picturesque — UCSB Library",
+    "url": "https://www.library.ucsb.edu/exhibitions/travel-picturesque",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "web_open",
+    "research_log": "corpus_data/research_logs/research25.txt",
+    "support_scope": "Travel books and the Indian picturesque associated with Hodges and the Daniells; exhibition description."
+  },
+  {
+    "id": "va-miniature",
+    "title": "Portrait miniatures — V&A",
+    "url": "https://www.vam.ac.uk/collections/portrait-miniatures",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research24.txt",
+    "support_scope": "Portable close-viewed portraits with political and personal functions."
+  },
+  {
+    "id": "met-deities",
+    "title": "The Art of South and Southeast Asia: A Resource for Educators — The Met",
+    "url": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research24.txt",
+    "support_scope": "Identification by attributes, gestures and adornment; lotus and pedestal symbolism."
+  },
+  {
+    "id": "hampi-dibba",
+    "title": "Mahanavami Dibba — Vijayanagara District",
+    "url": "https://vijayanagara.nic.in/en/tourist-place/mahanavami-dibba-hampi/",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research24.txt",
+    "support_scope": "Royal processions, horses, soldiers and courtly relief bands."
+  },
+  {
+    "id": "met-durga",
+    "title": "Goddess Durga Slaying the Demon Mahisha — The Met",
+    "url": "https://www.metmuseum.org/art/collection/search/719420",
+    "retrieved": "2026-11-22",
+    "retrieval_method": "search_excerpt",
+    "research_log": "corpus_data/research_logs/research25.txt",
+    "support_scope": "Weapons supplied by different gods and the buffalo/human demon; comparative sculpture, not the lecture print."
+  }
+]

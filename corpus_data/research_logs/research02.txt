@@ -1,0 +1,26 @@
+{
+  "batch": "research02",
+  "retrieved": "2026-11-22",
+  "tool": "web.run",
+  "result_received": true,
+  "urls": [
+    "https://collections.mfa.org/objects/33556/la-japonaise-camille-monet-in-japanese-costume",
+    "https://www.mfa.org/collections/conservation/conservation-in-action/la-japonaise",
+    "https://asia.si.edu/explore-art-culture/collections/search/edanmdm%3Afsg_F1948.19a/",
+    "https://www.metmuseum.org/art/collection/search/352204",
+    "https://resources.metmuseum.org/resources/metpublications/pdf/The_Great_Wave_The_Influence_of_Japanese_Woodcuts_on_French_Prints.pdf",
+    "https://www.mfa.org/program/monet-and-boston-virtual-exhibition-celebration-art-credits",
+    "https://www.mfa.org/sites/default/files/2020-01/mfa-publications-preview_a-guide-to-the-collections.pdf",
+    "https://collections.mfa.org/download/33556",
+    "https://asia.si.edu/wp-content/uploads/2023/06/shipwrecked-10-liu.pdf",
+    "https://www.nga.gov/artworks/168826-letter",
+    "https://www.nga.gov/content/dam/ngaweb/research/publications/pdfs/mary-cassatt-1844-1926.pdf",
+    "https://archive.asia.si.edu/Shipwrecked/downloads/01Intro.pdf",
+    "https://collections.mfa.org/collections/314107/european-paintings/objects",
+    "https://www.nga.gov/exhibitions/mary-cassatt",
+    "https://www.nga.gov/stories/articles/mary-cassatt-daring-printmaker",
+    "https://www.mfa.org/collections/conservation/conservation-in-action/la-japonaise/march-2013",
+    "https://www.mfa.org/press-release/monet-and-boston-lasting-impression"
+  ],
+  "retained": "URL receipt only. Authored support scopes and notes are in corpus_data/grounding; page bodies are not redistributed."
+}

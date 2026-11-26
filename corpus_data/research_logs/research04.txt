@@ -1,0 +1,33 @@
+{
+  "batch": "research04",
+  "retrieved": "2026-11-22",
+  "tool": "web.run",
+  "result_received": true,
+  "urls": [
+    "https://resources.metmuseum.org/resources/metpublications/pdf/Sultans_of_Deccan_India_1500_1700.pdf",
+    "https://artsandculture.google.com/asset/cloud-collar/WwFRmQk9YI5v8A?hl=en",
+    "http://www.metmuseum.org/art/collection/search/70458",
+    "https://theme.npm.edu.tw/selection/Article.aspx?lang=2&sNo=04009362",
+    "https://collections.textilemuseum.ca/collection/6365/",
+    "https://libmma.contentdm.oclc.org/digital/api/collection/p16028coll12/id/13985/download",
+    "https://www.bhu.ac.in/Content/FacultyCV/jasminderkaur%40bhu.ac.in.pdf",
+    "https://research.manchester.ac.uk/en/publications/the-art-of-abri-marbled-album-leaves-drawings-and-paintings-of-th/",
+    "https://www.metmuseum.org/exhibitions/listings/2015/deccan-sultans",
+    "https://www.iranicaonline.org/articles/paper-iran-prior-printing/?generate_pdf=1",
+    "https://pahor.at/wp-content/uploads/2021/09/September2021.pdf",
+    "https://doi.org/10.1080/00043079.1951.11408018",
+    "https://www.chstm.org/group/color-studies",
+    "https://www.researchgate.net/publication/354715643_Gandaberunda_-_published_articale",
+    "https://fliphtml5.com/dwuph/ufib/Sultans_of_Deccan_India_1500_1700/293/",
+    "https://leedsunilibrary.wordpress.com/2020/05/06/cloud-and-wind-the-art-of-marbling/",
+    "https://en.wikipedia.org/wiki/Paper_marbling#cite_note-5",
+    "https://awalimofstormhold.wordpress.com/wp-content/uploads/2015/04/cloudcollararticle.pdf",
+    "http://www.metmuseum.org/collection/the-collection-online/search/451403",
+    "https://www.newindianexpress.com/amp/story/cities/bengaluru/2024/Nov/02/unearthing-threads",
+    "https://oab.lib.utah.edu/artist_book_term/marbling/",
+    "https://ildhafn.lochac.sca.org/2025/08/04/ne-wat-swetes-danc-se-the-biteres-ne-onbyrged-yunjian-lihua-li/",
+    "https://en.wikipedia.org/wiki/Paper_marbling",
+    "https://es.wikipedia.org/wiki/Gandaberunda"
+  ],
+  "retained": "URL receipt only. Authored support scopes and notes are in corpus_data/grounding; page bodies are not redistributed."
+}

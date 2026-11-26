@@ -1,0 +1,8 @@
+{
+  "articles": 340,
+  "article_tokens": 444413,
+  "chunks": 2975,
+  "tokenizer": "cl100k_base",
+  "token_count_scope": "Entire UTF-8 Markdown article including YAML frontmatter.",
+  "chunking": "Headed sections, split at at most 550 content tokens; title/section prefix adds a small overhead. No embedding service used."
+}

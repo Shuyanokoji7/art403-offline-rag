@@ -1,0 +1,20 @@
+{
+  "runtime": {
+    "filename": "llama-b12628-bin-win-cpu-x64.zip",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-win-cpu-x64.zip",
+    "sha256": "e2f60be1e39ae47743e89f6210886e8d985b67108e1be19b7bcc166d863bc580",
+    "size": 25037881
+  },
+  "llm": {
+    "filename": "qwen2.5-3b-instruct-q4_k_m.gguf",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-GGUF/resolve/7dabda4d13d513e3e842b20f0d435c732f172cbe/qwen2.5-3b-instruct-q4_k_m.gguf",
+    "sha256": "626b4a6678b86442240e33df819e00132d3ba7dddfe1cdc4fbb18e0a9615c62d",
+    "size": 2104932768
+  },
+  "embedding": {
+    "filename": "bge-small-en-v1.5-q8_0.gguf",
+    "url": "https://huggingface.co/ggml-org/bge-small-en-v1.5-Q8_0-GGUF/resolve/f2068edd9b54f2a369549ccc71f70ed273a2a801/bge-small-en-v1.5-q8_0.gguf",
+    "sha256": "f046db1dc724cf4f6f0a0c5917e922823b73eb1d27b8f9a9c2797f7866974804",
+    "size": 36685152
+  }
+}

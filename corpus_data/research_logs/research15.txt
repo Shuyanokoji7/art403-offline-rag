@@ -1,0 +1,13 @@
+{
+  "batch": "research15",
+  "retrieved": "2026-11-22",
+  "tool": "web.run",
+  "result_received": true,
+  "urls": [
+    "https://whc.unesco.org/en/list/1372/",
+    "https://www.moma.org/collection/terms/conceptual-art",
+    "https://www.vam.ac.uk/articles/what-is-print",
+    "https://www.metmuseum.org/pt/perspectives/painting-with-dyes-early-modern-south-asia"
+  ],
+  "retained": "URL receipt only. Authored support scopes and notes are in corpus_data/grounding; page bodies are not redistributed."
+}

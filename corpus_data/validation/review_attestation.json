@@ -1,0 +1,1127 @@
+{
+  "review_date": "2026-11-22",
+  "method": "In-session Codex visual review of slide overviews and selected unresized detail crops; exact model version and internal resampling are not exposed. Text-only review for concept_term and theme_discourse.",
+  "pilot": "corpus_data/validation/pilot.json",
+  "limitations": [
+    "300 DPI describes the rendered masters, not the resolution of embedded photographs.",
+    "Not every object received a native-resolution crop; unresolved details remain unasserted.",
+    "This is a review attestation, not an automated image-model API response."
+  ],
+  "entities": {
+    "uncaptioned-floral-dish-on-the-course-cover": {
+      "input_sha256": "fa396fc0ea95beef50d2f8a19d37ebe2572e01b55c49f502cbf33fd772822ded",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "uncaptioned-floral-garment-detail-on-the-course-cover": {
+      "input_sha256": "f0046b7eb2a04f905ecf44bcc66be7ba2cafbb656c1106b44f37ca27b7a153c5",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "trader-with-horses-mahanabami-dibba-relief": {
+      "input_sha256": "ccc2ecbe3f35f2924941cb555f4c75786275e1221044d51dc9058e49772c2524",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "paigah-tombs": {
+      "input_sha256": "a0e409fcbca3664641e082f8fa1ecb522537ec003d3102db64b195b96435f4d8",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "janamaz-or-hanging-coromandel-kalamkari": {
+      "input_sha256": "efad3e1c3d10cb03bd34c501f38a503c8d7c17e3bf5020016732fd308a436290",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "hampi-and-vijayanagara-mapped-urban-landscape": {
+      "input_sha256": "c95d5394eb697e8fce8f849f3dddb1c8ba5d6e6aa741f8a1412a6b00c8dcd75a",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "krishna-temple-sculpted-hall-at-hampi": {
+      "input_sha256": "df0be6f7ed4dbd9c8029e7494eaf7a3510c8f29340da4aed0571e2fb7158ea16",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "vamana-avatara-of-vishnu-badami-relief": {
+      "input_sha256": "e9152afdfeb5fb125561f981f302a4a3f159a0cdf5236522cc65ca8a6b3cca54",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "virabhadra-vijayanagara-sculpture": {
+      "input_sha256": "99cb8c01ef9d40bbb3507ac0140570156497b9e033133c38768a8abadac2d189",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "mahanabami-dibba": {
+      "input_sha256": "c691ffc635f3c80c8b90967d1dc83021df2ff366a14900c085ddaa67851525e2",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "stepped-tank-or-kalyani-hampi": {
+      "input_sha256": "1f479b44e063d43c843ec4a90acdbe61be749a97b043929817a6214a6bbd4550",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "vasantotsava-and-warfare-relief-rama-temple": {
+      "input_sha256": "2ef218f23cc10f379a9f798bedb63913a3bae563956df02bd5bac5a16857ef87",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "early-granite-friezes-mahanabami-dibba": {
+      "input_sha256": "9715a86478040f78d3ed901414a116bfcf85703695a270aa5b0af6dbb594268c",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "sati-memorial-hampi": {
+      "input_sha256": "6d7f5c526b9e989054e3b25fb8d72c70a849ce2bb6851a69c8be283d28987c27",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "hero-stone-hampi": {
+      "input_sha256": "179a1882c8342524860f110814e162b3ceb091372dc6434626b63ae4144967a1",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "later-green-chlorite-friezes-mahanabami-dibba": {
+      "input_sha256": "8ad9e925173422b89c314e76dbc922661b140421440f8e9b2d2609e301764f5a",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "wootz-dagger-in-the-trade-connections-slide": {
+      "input_sha256": "970a5a5c0d4f29eb11a644b13d36e81fd7501b0fe50dd883993842ab75690a05",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "woman-wearing-a-cloud-collar": {
+      "input_sha256": "36baa2fa253c0ef5e7412d8d7d55609c945db7a0a0d0d53d71255d98b2544804",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "musicians-or-dancers-with-queried-chinese-identification-mahanabami-dibba": {
+      "input_sha256": "06ca87ca1c3be88101b10fc235e656ddfee29f0965b80e033ce2763e8d75202f",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "golconda-coverlet-central-pavilion": {
+      "input_sha256": "4ad048eabbafd94f5b0bbd8b08dcb278e8f466583e0b0a2d6a20dc1268208553",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "procession-mural-virupaksha-temple": {
+      "input_sha256": "46919e2b4a6b571eb4624de16001dd34608ef5bb03989ea7aaa4091fa5c09e2c",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "virupaksha-temple-gopuram": {
+      "input_sha256": "9a970d970bd4da72d862df9ee1e14a49ecdb4e85708816ba1e9d4e1b331af6aa",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "chinnamadevi-tirumala-bronze": {
+      "input_sha256": "b268add97a0751baba81092665160059215adf8e5c7c9ee422828a6713cfe176",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "krishnadevaraya-tirumala-bronze": {
+      "input_sha256": "6826248dbce91665f2e698735233326596bb16350670941095d68dbe3add1c0e",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "tirumaladevi-tirumala-bronze": {
+      "input_sha256": "4161ae2190fcfa993ee9ff1c60ab1dc2bf51fa299fbce3c6dd1becd1621734d3",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "kabai-and-kullayi-in-the-lepakshi-mural": {
+      "input_sha256": "e77c2bc7960bd2da40710a60a855cc406c3510d8913d915291ca87f90a92af9a",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "vijaya-vitthala-temple-sculptural-friezes": {
+      "input_sha256": "8265860462abf2f0cb91e2e410449064fccb96f0d23df9324d98d698d69bf45b",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "vijaya-vitthala-temple-sculptural-columns": {
+      "input_sha256": "d3c8709d1547716477a210df55a6214263781a1fbefa28021501367c3220607f",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "vijaya-vitthala-warrior-left-relief": {
+      "input_sha256": "42e15e4f0a7212680a154409899a05c92de01938badc39ad812e19ae0b525a67",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "vijaya-vitthala-warrior-centre-relief": {
+      "input_sha256": "b69fc3c6a87de2587c13330059ece31103a175bd204a6b4f2528937d8076e073",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "vijaya-vitthala-warrior-right-relief": {
+      "input_sha256": "7fb5d49b0ee6518b3f2ee4bb8623938d42979cd08c87a247df2ecd5be17a9c14",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "lotus-mahal": {
+      "input_sha256": "16869f07146250c402df920255c32474288e0473fd299840d798b5e8c911937e",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "oceanic-networks-as-an-art-historical-method": {
+      "input_sha256": "498bd4f1aeaa6cc09b4618b62aebd58239d1ea2a0ad423cecfb9f6880c48a351",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "domingo-paes-on-vijayanagaras-urban-abundance": {
+      "input_sha256": "4abd54e2fb5b7268acce088379bce44db599792011260446de402af68e14f34f",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "palampore-hanging-rom-934-4-3": {
+      "input_sha256": "89ef04ffe97b7a4e8d39daaed0f82614bea9d77fc44b3413065112f5c2d24a07",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "map-of-coromandel-danville": {
+      "input_sha256": "1b4161e4d6dc3794ea1dfa9c08a0d8d77dcaa5b5f389aea6b789838cb32bf83f",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "uncaptioned-riverside-temple-landscape": {
+      "input_sha256": "a8f02b318d7080087e4fa81dc465973dd38ce49812ccce5ee3444f1305bed9bd",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "artisan-drawing-kalamkari-at-srikalahasti": {
+      "input_sha256": "15f8b4b92633114f8da4fbac88bafb886fb6003ed64f6a5cf219af651c784dfd",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "artisan-block-printing-cloth-at-polavaram": {
+      "input_sha256": "1f77b9c72878f6626388855f0f2b6be6e3e131ad3d406b9511b486349eb67283",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "dyed-and-printed-coromandel-hanging-rom-2000-93-1": {
+      "input_sha256": "ee21455007a309e1c158497137a56c4529c08da2dd6f6b3f225f7e1c9f570dc9",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "qanat-or-tent-with-five-panels": {
+      "input_sha256": "a0f0cb7b7729562668a3e1f0ef7a34ac5ccd3da9efa91ff36843774a530a027f",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "manga-malai-necklace-with-gandaberunda": {
+      "input_sha256": "250f4352f394a34248931b435a26bda616de1fbb1a2a550f66e4100df18cc363",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "two-headed-bird-on-a-dutch-cemetery-gravestone": {
+      "input_sha256": "688b52f151a371bc3f308c9165c20d2c1f1c61e5e8679f6ea26c06c9b69a1579",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "lepakshi-ceiling-mural-women-in-procession": {
+      "input_sha256": "d81f7419f265314bf25aba19d912236961e1d3c30dd93b8a656a879c549120f5",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "golconda-hanging-calico-museum-647": {
+      "input_sha256": "aa3e0c44cba83b35fec6c5421d30ac12f220de604d25f0796b5875f192484197",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "mihrab-at-the-jama-masjid-bijapur": {
+      "input_sha256": "e9153e09afce5e65a08e79a18077f9795f5c424e6c3af38154f961da1054c59a",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "qutb-shahi-gateway-facing-golconda-fort": {
+      "input_sha256": "797bf731daa6c7a85d1976a35e9ac3a7b6599e73965390df6df5a25be0ac603e",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "dutch-warehouse-at-bandar-kota": {
+      "input_sha256": "1136f3ef9f86839f8187bf9145a23a436ea93f352a70bd3b784b708e1807904e",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "ramayana-textile-panchakalla-peda-subbarayudu": {
+      "input_sha256": "4fb38b2a083e91e531ee1752ad11c23880da8ee33b7813895480c39a76e62c55",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "manikkavachar-and-meenakshi-temple-hanging": {
+      "input_sha256": "69110d121003fbc4e6dcfb0fd381d8f6ca420190bd33c970f907d3993f2f9c30",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "north-doorway-of-hayat-bakshs-tomb": {
+      "input_sha256": "0121d7ec7a58a1067dd7107b67787079924e77ea4bc8c2e5bc066135e84e9fa1",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "court-dress-or-dodot-tapi-00-187": {
+      "input_sha256": "89a6388082ffd8d084eaa7c44e2165f2217100edc68e3e7fff7226ca6a126023",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "chintz-petticoat-in-european-dress": {
+      "input_sha256": "8d625a940cda4206d996d1df54ba3a9fbb3b8c7a908cae19065175e962c9807d",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "chintz-jacket-in-european-dress": {
+      "input_sha256": "1be5851f684ce24dd0f93f2b979b1f44a03fe70290eba8ac301bdaaa649c132e",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "coromandel-textile-networks-and-changing-uses": {
+      "input_sha256": "e686c5c9c48c16fd86126b9c42bdcbb3c70a5855c2386b0e5cc261d62c46b15f",
+      "review_file": "corpus_data/reviews/module2.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "siesta-bijapur": {
+      "input_sha256": "d6695d3704ed5006146a7fe6e49443445b7d8c96f5e116d88f28fe6bac909998",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "mahmud-gawan-madrasa": {
+      "input_sha256": "c306a4d3eda6cd579f7ef4fbbeac7aa6bf5190e86506aff904a6df63ad84a53a",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "ulugh-beg-madrasa-and-the-registan-comparison": {
+      "input_sha256": "7974b9e98ae2f242b74205f0d77c0c128b0593f5356a93bf772ffc20777ec2e9",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "well-south-of-takht-mahal": {
+      "input_sha256": "4f7d51177a0ed7e6dbb49fe47353f2e64f7187f37ebbffb71c9df96b827d9f5e",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "bahmani-basin-at-bidar-fort": {
+      "input_sha256": "53bcc74f2a272f47b9c66507c5d32706e66dc932778e0e2ea2a916e86b7dc60f",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "sola-khamba-masjid-in-the-bidar-landscape": {
+      "input_sha256": "d45db7e687da6dd617f69116a51ede1d41cfdadd778aca1a6f0ebff6960c70c6",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "sailabchi-basin-bidriware": {
+      "input_sha256": "3d2ba3876ea44e7969d0a7dafe0217c7b556be0f707c945bcd2666620a9ef71e",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "iranian-ghalamzani-lidded-vessel": {
+      "input_sha256": "b5b8dd561724dc2acbd06d133c7f8271f939f5b2047b8cdb35ca1ef3b2e59a7a",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "uncaptioned-miniature-detail-turbaned-man": {
+      "input_sha256": "b1c401f464fcad84cb68bd134fb60369d463e2a52f2ce921fbd1c692f2d64d71",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "self-portrait-of-farrukh-beg-lecture-identification": {
+      "input_sha256": "25f2b39364e2e70250053774d140f61b839f4b04eca72669ead79afcc2e1515c",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "ibrahim-adil-shah-riding-atash-khan": {
+      "input_sha256": "91c143f45ba57c9c2c86d9632fa139b696734729a09b67090638b67288546424",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "goddess-sarasvati-enthroned-bijapur": {
+      "input_sha256": "ac141c294607a40fb1203f42fc7316011bd5f9539af9e572f1e8be99b0bd8ca7",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "page-from-kitab-e-nauras": {
+      "input_sha256": "22602fc8cb9b6cc34e95dd0b79afb650bfd775de595b3de7ffa87b79ce856b48",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "sangeet-mahal-at-nauraspur": {
+      "input_sha256": "6132f54f3ea71af9206754a60fc2ff71ef3429c5d862a115548a7a6429381605",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "ibrahim-adil-shah-ii-playing-the-tambur": {
+      "input_sha256": "ce9aabc7e0ce20f437d0f5610f05480f0210bfdb4741e51a2d21e8ada8624b56",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "european-print-above-the-tambur-portrait-left": {
+      "input_sha256": "4f556e8ff201f80152193ad81d03da085dd1ba723b161f57720a8d05fb86cc59",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "european-print-above-the-tambur-portrait-right": {
+      "input_sha256": "4aa45f6d6d0cbeea784e0f951a3938225c80aa6e0e166c3b14a2481f688fb67e",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "yogini-with-a-mynah-bird": {
+      "input_sha256": "b6d40ca2422d659d3c7c4c87e13a2e800e44a2d9b883afb9272d068dcde59aa4",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "modern-paper-marbling-demonstration": {
+      "input_sha256": "b45b8c6289a55e7c716253bb4ffeebbc1c61b4fb4131046365730477abd10eb1",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "ascetic-riding-a-nag": {
+      "input_sha256": "0d575b2d3b9f96bdaf48b7515b74b12bdd60df7403bf7aa2a31f812d9fa05d17",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "thin-rider-on-a-marbled-horse-comparison-image": {
+      "input_sha256": "9602fb1b09cef7c7497e30a6c76cb3ef57fac0c19abfb60a14c932e1a2eab4b4",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "bijapur-circular-city-plan": {
+      "input_sha256": "a05a6bc0a8c3e1a9ae23cd79964ea05f51c0b17c8c9b441422df2bfc61eb1172",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "gol-gumbaz": {
+      "input_sha256": "eb7e1057433365e33ac1ec7c9d9ff428dec11a8cb43d1429754e1b7c62ffe4b8",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "uncaptioned-domed-complex-possible-ibrahim-rauza": {
+      "input_sha256": "ee954a448b570aac292950ea9b488064c148f2a1152a3700b9840131053c5461",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "dagger-with-zoomorphic-hilt-bijapur": {
+      "input_sha256": "17069868d9ce7ad565f5332c53a8500c8f213b47fbcf4a620448ab339069ed94",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "sultan-ali-adil-shah-i": {
+      "input_sha256": "e114862b2bb4fc7f1fa8e17e715319c2ff37e1f4f4afe794e36f20ffb3d5e746",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "house-of-bijapur": {
+      "input_sha256": "61844a379f92f032b59975a4855f09e1c67cfb38f0ff7074eae9fc2635d29296",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "hyderabad-or-bagh-nagar-1854-city-map": {
+      "input_sha256": "faf0fda1b7c64dabec64eb69f7c91e43c5139f6c190601586ee45dfcb8fda75a",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "charminar": {
+      "input_sha256": "4c4aff72242e3548775e9ca38c1bb4769db0798b3acfdd3cb703b00ff29179f9",
+      "review_file": "corpus_data/reviews/module1.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "portrait-of-khawwas-khan-in-witsens-album": {
+      "input_sha256": "34e58e57b8eae3ffc1d42757044d7b272c864f6221e0fd4e2347d8523e190b3b",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "adoration-of-the-christ-child-golconda": {
+      "input_sha256": "6a7c2e97bd74525251ef9bcac0e3201f6970282cee3175200193f213bb48184a",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "interior-of-badshahi-ashurkhana": {
+      "input_sha256": "fe172626f6c8d95f9d3f6154836cfc313396f04b75e22fc78cd131db3fa472dd",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "avium-vivae-icones-collaert-bird-engraving": {
+      "input_sha256": "a34a6060c28f1a2f1db158ddc83c8713ebde7ab11cc479410267e934cf9638e8",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "parrot-on-a-mango-tree-with-a-tethered-ram": {
+      "input_sha256": "d1983ae7e290156f4b585308299232e017239ddc7f261c44674553b6f0e54149",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "dervish-receiving-guests": {
+      "input_sha256": "ada91b81781f45c2d8e047559ee4f466328340b92864fa18c5c33a7d7450e3c9",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "persianate-cosmopolis": {
+      "input_sha256": "98a0d92c5589de0cba708c520179dd985e6267ad4579f46d0649975f8a98be92",
+      "review_file": "corpus_data/reviews/module3.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "a-vase-with-flowers-vosmaer": {
+      "input_sha256": "fe3a06c25f7be17f0881bc9ef6ce54c4e1c05893418a88d68cd2425f710a887d",
+      "review_file": "corpus_data/reviews/module4.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "the-geographer-vermeer": {
+      "input_sha256": "e8311edff5f35f9fad346d4f6b999d4f6db9cbb7a13323904016dd632101d5e1",
+      "review_file": "corpus_data/reviews/module4.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "voc-ship-model-video-documentation": {
+      "input_sha256": "c7efe3a385a21afc86ce63e1ce4567d089f3a8acc7f110e262cc08940b230308",
+      "review_file": "corpus_data/reviews/module4.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "still-life-with-lobster-and-fruit": {
+      "input_sha256": "ee9c0d62200c43d8910751342214c16ff0f8a5d6d0a6a105ae0c2b611da93740",
+      "review_file": "corpus_data/reviews/module4.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "a-goldsmith-in-his-shop": {
+      "input_sha256": "e6ce60fe53423eed4ecd8c90e6b346f67020cac40501e2c82dfa5e8d47cb51a7",
+      "review_file": "corpus_data/reviews/module4.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "still-life-with-a-timepiece-dou": {
+      "input_sha256": "2c0c518b275b841accf02362d6d61d563680e75ee839980651b6c075c732c77b",
+      "review_file": "corpus_data/reviews/module4.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "still-life-with-armour-van-aelst": {
+      "input_sha256": "e9c2235fccd63847cf7087a8479f4f0608ccc4e133013d3cea49af244715c3e7",
+      "review_file": "corpus_data/reviews/module4.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "peacocks-dhondecoeter": {
+      "input_sha256": "564714f11c3094c4d02785056c16df6957d7a85fd3e0cf3b9310c1840bad2195",
+      "review_file": "corpus_data/reviews/module4.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "still-life-with-partridges-van-aelst": {
+      "input_sha256": "72f20c19140459ad5d2a92533fbb938f7585354107163e4fd71d4d90a1a0a6e8",
+      "review_file": "corpus_data/reviews/module4.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "ocean-at-the-table-commodities-and-still-life": {
+      "input_sha256": "b6b77c1c74439692facf51c35df1b12c2ea6b6726348a20cca00a8ee989395fa",
+      "review_file": "corpus_data/reviews/module4.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "mughal-animal-carpet-possibly-lahore": {
+      "input_sha256": "b68f502d783a47d4431335eac3f78f06d9d3aa77fbb88c91bff82123fa1cef32",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "silk-animal-carpet-iran": {
+      "input_sha256": "560b022f78ff57ae8fcbebf6c8d93531d69274047101253a3c33900395e0047c",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "revived-dhaka-muslin-sari": {
+      "input_sha256": "93b9c4701eb58e53182435f5da743481cf943fc137416e2ccc09f11269d0c65f",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "dhaka-muslin-transparency-demonstration": {
+      "input_sha256": "14bd27ea7ada8667e7a51bbd181dddf607f1ebefa43bc6c39de9c9c94c3998e3",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "akbar-and-adham-khan": {
+      "input_sha256": "2f059297252d3ca53246b9d8dfe31d8c69975289f1f8d90551c2af2e3dee9c4f",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "the-virgin-and-child-basawan": {
+      "input_sha256": "3c7fe5afb2df4513a3aa54e72224d652fcd564b6eb0c5f8c588c03f1b69595cb",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "nursing-virgin-and-child-after-luini": {
+      "input_sha256": "27e4f86b82a7df03a3719a1664a15e1837c93ce1f4d79e74c089a4547df50630",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "akbar-and-an-armed-combat-of-ascetics": {
+      "input_sha256": "1d33004b2f840bdde4b8aad1246957ba4f43756226eb64449cf9ea8c0aeba80c",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "virgin-of-the-rocks": {
+      "input_sha256": "6c6ec06e7e24504bbb7a4f5d471738e821b6ac19bb3beb789b3fc90511685b7f",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "akbars-church-agra": {
+      "input_sha256": "a75b02e4a35eb78a62e62cf3c801d0004c3785aeddb7978f5e604427ffaccb07",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "the-deposition-from-the-cross-mughal": {
+      "input_sha256": "243ca36c4ba8964253bf2f62e09a1cc9006ef762638a6557b72bcf7cb8d623af",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "canteen-with-christian-imagery": {
+      "input_sha256": "5c710f9b2045daf090fd5296f564054f7886087e679e6561ff07c6331915f60b",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "the-birth-of-the-prophet-muhammad": {
+      "input_sha256": "f633abaf82f7e4c397d3e0685b32122382ba4af9e202574fb76291ba8f2611bb",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "virgin-and-child-ghulam": {
+      "input_sha256": "36d47d0a6c0d2656e981e04baf7fcebc88fb4b459562e61ee2557aa355787d0d",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "camel-fight-ascribed-to-bihzad": {
+      "input_sha256": "0fcda6c6a3a12406ff787a3ce4609c35afadf23c7452270a7cc103ab25925069",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "camel-fight-abd-al-samad": {
+      "input_sha256": "1f2747b277de40a84588b620852c44c0efb56a032823848871a2a0a51187fbea",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "pigment-preparation-v-a-video-still": {
+      "input_sha256": "fca90e88392843795ae945730b3b235d379d67d0cda8970a3607e8e89aef5b43",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "crucifixion-durer-attribution-queried": {
+      "input_sha256": "70900702314a143549d5db5a4b575e3446929b1505308b00bfd2bc27093f1495",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "saint-john-the-evangelist-after-durer": {
+      "input_sha256": "f664f07e64929332caa9777f91722e9bad7d91b4843057e79a600980f55b91af",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "abdullah-khan-uzbek-hawking": {
+      "input_sha256": "131d77cf70a65b03c624ef23d60ecc07ebda4b866f7b4114cb51300b8b737d0e",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "descent-from-the-cross-raimondi-after-raphael": {
+      "input_sha256": "031d917c7b0258cc6fb488a67a52d87cb76374ee416b5230948a2b8f2c47dbae",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "composite-european-print-and-persian-drawings-gulshan-album": {
+      "input_sha256": "8f7d248c63833b74de650f78d652ff27e87fbba1bdc26ce851f03cabdf0068a3",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "luna-print-inset-in-the-gulshan-album": {
+      "input_sha256": "cc79eb8c15b0e3ef8998246610be1245fd40de6c3ab74bba661056c3829178b0",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "seated-man-gulshan-composite-folio": {
+      "input_sha256": "61d892eed546612d2fdfe8b700e0299f066fef07dd37b38f7345a443b3e3b52e",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "three-men-gulshan-composite-folio": {
+      "input_sha256": "9af0e39475de788982f7f27e595939d92a43d114f1ac46eb8bf43e6e4eef1af2",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "reclining-lion-gulshan-composite-folio": {
+      "input_sha256": "a3bb7b72017bce3ef7786f3d1a648bdaa8f85ac8ec1f6462a0ebd22179a7c197",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "jahangir-shooting-the-head-of-malik-anbar-on-a-cosmic-globe": {
+      "input_sha256": "9a3a22e8c87f320a0eae4349f06f2cbb1696106b4316c72723046027911882d5",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "jahangir-embracing-shah-abbas-on-a-globe": {
+      "input_sha256": "b4708089e0dd3d93053535b53e74d6e965a5c51a786d0031067aa1108e27ce9a",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "jahangir-hashim-shared-folio": {
+      "input_sha256": "e2f0bf001fa8a167135c8c2e45e9628346ff86de32dc8327b15f32fbd4a31451",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "jesus-abul-hasan-shared-folio": {
+      "input_sha256": "20b48696163b55714a6b86de69ac337b32d58a971ec7e897af00583694a398da",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "shah-jahan-on-a-terrace-holding-a-portrait-pendant": {
+      "input_sha256": "e81d52d0373adbebfd4bb4e1f72139b30e524d3cf9c8b6d545f7beebb1d0de87",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "standing-ruler-drawing-possibly-rembrandt": {
+      "input_sha256": "75cd5ca2a027edb949f1accc48e085b4727d7ea62f9a1b4cb68b103819abab2a",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "globe-in-the-mughal-court": {
+      "input_sha256": "905da1ac5f2adf5ec28c30ba2448c108c2c656a332b04ebdf431c83aa422b322",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "occidentalism-and-orientalism-lecture-comparison": {
+      "input_sha256": "c1c12279fc1469e9cb2b1d14a6138ae86de3787b9d6b72c4729a322a00f05417",
+      "review_file": "corpus_data/reviews/module5.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "buddhadeb-calcutta-art-studio": {
+      "input_sha256": "0ccc1fecc01a59cad2c04cbaa6b02f3743321e3b99a0276c48099cb35c67ef8f",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "fort-at-agra-bacon-stanfield-and-kernot": {
+      "input_sha256": "eca83a9e4b7845a55b64fa5c2ffbe4f7446b66ac3a26079c02e17017fa470aa7",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "unfinished-textile-woodblocks-pedana": {
+      "input_sha256": "b7b8388d91917291c20a4196f56a0ccd7bbd03444b93ffb8c8fbbb10f8665e2e",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "kalamkari-printed-cotton-polavaram": {
+      "input_sha256": "5fa1009ffb41a7707ff092a4a067889be058e3649aa7ccb3813e900148fd5d6c",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "saint-sebastian-woodblock-matrix": {
+      "input_sha256": "523530c791b7e8db19bbb628102f4a119deb3c0cab561bed4099ef011e47c2b2",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "saint-sebastian-woodblock-impression": {
+      "input_sha256": "3e8e9208b1bdc6960f1762793d0e525f6f1b680728f5b3d916fcace93aee60e0",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "lithographic-stone-demonstration-video-still": {
+      "input_sha256": "11afa527d85c3b9cb337444b7dcb627dd7164ecfde81df1500c8839c75e84e51",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "relief-printing-demonstration": {
+      "input_sha256": "8b6bb7d205d67ba1e5d3c94e0b3bd33715c183f9afc9799fee4bf0825c950d66",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "sicri-gully-hodges-and-angus": {
+      "input_sha256": "6abad5a58d0d4e43cd816e212e501180c328aca2fa8582ee4acd33c4955bac32",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "an-excavated-temple-on-the-island-of-salsette": {
+      "input_sha256": "04edca6c9553f1cae42468909495383dbb1e3ae879c5dc68a57d1c235aa81f92",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "part-of-the-kanaree-caves-salsette": {
+      "input_sha256": "d872c64dd18cc5c46ab4e492c2e8c098f742b36704e14115f4519d9601eacb63",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "antiquities-of-india-title-page": {
+      "input_sha256": "fc25b706647331621d30915e331a87944e1662f63f29faff2dd919bc2f6941e6",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "koummars-solvyns": {
+      "input_sha256": "94f9b6da65598aa559f03d7cf2de4a718b01d5436dd996e9e5b73725722054c8",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "a-bazar-solvyns": {
+      "input_sha256": "f03b2ae1433718b39c4c3be0dabe33adbb3416974cab2a5a3ffa922e98e22779",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "diospyros-melanoxylon-roxburgh-botanical-plate": {
+      "input_sha256": "6f42fe021486bc3cc06a943d36262e33ea11f0697982a9a561ff23f1be8aff77",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "a-woman-strikes-a-man-with-a-broom": {
+      "input_sha256": "2c2d72570bee6af8a458673f0dcee547ce2220d1b1191e1d42ca2231426d8ef9",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "a-cat-with-a-lobster-kalighat-painting": {
+      "input_sha256": "38a9ef6feaafb98b57bcba49b379b9202b61384f5ca45718fff237c27e61cdc8",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "a-cat-with-a-lobster-battala-print": {
+      "input_sha256": "396d91a60ff45d6257e79e845b15f7985de0a43f2ce017326e8327d2de9f549c",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "shiva-playing-a-veena-battala": {
+      "input_sha256": "fc5a82ef06be14a3ecc51dd19928af52849f37bdf4110671da98bdd07869186d",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "mahant-and-elokeshi-temple-encounter": {
+      "input_sha256": "3782228fe23ad7f994138d55d5e29b7631fbfbea3be458752739e52f28df4de5",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "mahant-and-elokeshi-raised-blade-scene": {
+      "input_sha256": "3e69856ffbce91aff3a8c7cf49bc4699a64bfe9f968907be84dc1e1369e02d5a",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "goddess-durga-with-her-family-krishna-chandra": {
+      "input_sha256": "5af81be07a55cfc143eaed93c6282d5643e28e8b544f7d6524479f5a3c201d35",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "jazb-al-qulub-ila-diyar-al-mahbub-lithographed-cover": {
+      "input_sha256": "e331ca431acf55ceb8b74ad508b922c390913a7c84a31dfb6f75d2c71fae924a",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "tiger-tugra-lithograph": {
+      "input_sha256": "a119f4b9f948271eda1e0cf1fd5da6e6057a2e35b6db20f93ac3a740d2330010",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "hawk-tugra-chromolithograph": {
+      "input_sha256": "c38b1acd51bcadc5dbe1c03699d5c0afbe99d7a35cf9591ee5b270dfbe68a9c1",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "scene-in-bombay-grindlay-reeve-and-hogarth": {
+      "input_sha256": "ce722c725e56706d98e18111adff48dab6b709f756f268bc61048c4a4f4cef4e",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "vijaya-annoda-prosad-bagchi": {
+      "input_sha256": "286872011a7285a64f66abfdfbd34ffb13e4c89de516530c0655f5e4482eed06",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "kali-and-tara-calcutta-art-studio": {
+      "input_sha256": "b188b9dbc5c82f451d0b6b714cdff9a89924ebd0678ea26bb3e798b23df72c13",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "mahavir-chitrasala-studio": {
+      "input_sha256": "b1dbf282f4cbbebb86edc7ca782b0ffae2c03b6419c02e8d858c188f078fba03",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "relief-intaglio-and-planography": {
+      "input_sha256": "a4496199147ea1fea2fc0f62b96cca97f7fc8a8ec0a906614394eca6a9dc22a0",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "chromolithography-and-hand-colouring": {
+      "input_sha256": "6caa9339613ceb9bfc89ae3df2d13987c7942d36392310c4b48b2cdbd8988a25",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "misregistration-analytical-study-term": {
+      "input_sha256": "c98200729dff56922f07417b131af66d2ba740994aabcc4c8a5009856d1a52ba",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "european-print-and-indian-bazaar": {
+      "input_sha256": "c2c3bcee3f11dbf6e6ade98eed47c4fa87b59c2d37d9cfefbbfa6bdbb4250f4c",
+      "review_file": "corpus_data/reviews/module6.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "under-the-wave-off-kanagawa-the-great-wave": {
+      "input_sha256": "de187452e25f751bbb07efb73482f5db3d736a70783270465c5d393db96b3758",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "figure-by-a-tree-and-mountain-ukiyo-e-video-image": {
+      "input_sha256": "9f7555fa7c2bcef56bf55de3185a8f9939bb4d55bf97228ac35f4e968283858f",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "lake-chuzenji-in-shimotsuke-province": {
+      "input_sha256": "3c515ec8dbbaf077a5d02d18dc39070d44384b5f213d4da909debea086730a38",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "courtesan-keisai-eisen": {
+      "input_sha256": "c47abf8a2d6fb4a82b0a3dd41d0e4df96328c32be93c3d767bb9c924bcbfef7d",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "courtesan-after-eisen-van-gogh": {
+      "input_sha256": "a8719016c40f21a82cbd92622c652582aab1d1e118d167ce889c843084751c0f",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "portrait-of-pere-tanguy": {
+      "input_sha256": "259d833798e31a1f1753799fa12920f2188a35f9f497d222e290d737354c59e3",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "sunflowers-lecture-example": {
+      "input_sha256": "ae661d9564376f1198d48fb4c8f2615d99b9a0694d940450412e2482b94ceba7",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "almond-blossoms": {
+      "input_sha256": "5819ff706a0fd614e26ce174dc18111fecf91e2ecf1911a046f70200f57e0536",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "portrait-of-emile-zola": {
+      "input_sha256": "888d5dab6cf473f9a087aacb0c37f5fc385172fde41e542bc31d33dfb7903c9c",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "olympia-reproduction-inside-zolas-portrait": {
+      "input_sha256": "9682d7644562c714afc5158f2a5c9e423d31a87aa7401b718afad9f4e1659db1",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "japanese-standing-figure-print-inside-zolas-portrait": {
+      "input_sha256": "4aa1f5b252bb2eed0083b7b293e89ff3b3132ae6aa565b92e5a2613daba8bd58",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "monochrome-group-reproduction-inside-zolas-portrait": {
+      "input_sha256": "3a2aa822946f69ecbb2dfd44f605ca7846604d7324354825821b20e7e049f36e",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "water-lilies-art-institute-example": {
+      "input_sha256": "5642e2fe03b77304878eebe304e77c6a51bc1b04566dfede08eeca141d429d9e",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "water-lilies-moma-multi-panel-work": {
+      "input_sha256": "fccbf7f03685b8170fa1c2235846a93f3ec65fb5c90db88d47428625e26d83cc",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "moma-water-lilies-gallery-arrangement": {
+      "input_sha256": "f5d0c185a9af638fb348ce276111174758ade87b10ee49f9b99885e3c7b41ec0",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "jane-avril-toulouse-lautrec": {
+      "input_sha256": "6eb65de4543df4193107bae1456ab9145820e46a93001eff0abe75b8f203519e",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "divan-japonais-toulouse-lautrec": {
+      "input_sha256": "20f47a1379107a2c9fc76762e8318b8a8ff427c5beaed235768fb6c70af58cbd",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "camille-monet-in-japanese-costume-la-japonaise": {
+      "input_sha256": "52239be9025d8c914d6acd0fa60a369d247a4f6d90e4b0fa34d6311e4070fa1c",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "the-letter-mary-cassatt": {
+      "input_sha256": "fbe12ec6d1af7f01284e9b4388b53418863697729bbdbd214c9d38f47a8e6421",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "after-the-bath-woman-of-the-kansei-era": {
+      "input_sha256": "963d3d662cd9525910538af2b2a1c41b1852db5840ac96ac22a7927af1d11bd1",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "under-mannen-bridge-at-fukagawa": {
+      "input_sha256": "e1369b742f1a61fe783c1f9c03633f1176c39ca719c147c44f431aba3397a7c0",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "water-lilies-and-japanese-bridge-monet": {
+      "input_sha256": "f9778434de87b884ed32c8cd6b7f07d9e846b47e3e3a43bde3dae3dae73e1123",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "claude-monet-photographic-portrait-in-video": {
+      "input_sha256": "4941fdb9f33db9e8d86e387500b48ff624ac941d68b2019766d8110619ae1da1",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "mary-cassatt-photographic-portrait-in-video": {
+      "input_sha256": "711e8bbcc983dd48e1300faf221a8c1155b136c72ebb9c74319ce39b82823779",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "geishas-dancing-beato-studio-attribution": {
+      "input_sha256": "eed606a7cf80d1db12b87213103fc8bad4fff70c9b40b417e99235260ff2a10a",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "view-of-tokyo-nineteenth-century-photograph": {
+      "input_sha256": "059fffb782bfc02a98f4e5df61c1649143a09a1a40c1c34bcd93013c3545b0fd",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "french-issen-yoshikazu": {
+      "input_sha256": "280ed7d2e7b7cc81904f0a2ade8515e394cbfd7c1e5acec8c4c5deb70d1b8f30",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "japonisme-appreciation-collecting-and-appropriation": {
+      "input_sha256": "d264ac725d43d7b59d176b748c9bcb5b3438e4fc3ce85662abd87fb17e13250a",
+      "review_file": "corpus_data/reviews/module7.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "when-indian-flowers-bloomed-in-distant-lands-ahmedabad-poster": {
+      "input_sha256": "4ca2e6844012fd895a7ab4a2b21ee1af3a7b720d15def7d3d1f4b32418b88a8d",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "floral-textile-detail-tapi-poster-frame": {
+      "input_sha256": "7afb3e6bcfffbf1e3d646dd34dd98e4843ac8792b7e0549101704f77f8c83e3a",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "interwoven-globe-entrance-banner-arrangement": {
+      "input_sha256": "04a172b6a2a1b1c603123681387a9ceb170e2ba7037b4060ed5680bb7b3e0c98",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "interwoven-globe-gallery-sightline": {
+      "input_sha256": "bd2c98770afe915177afa245e8c2706d3b2a05ffcaf3e9a449a8c2cd1c37fc0e",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "asia-in-amsterdam-entrance-and-gallery-arrangements": {
+      "input_sha256": "a3b6cd2c5392feea5614e5cc82145dc1af1ca1a948da16b688d6708f6650c2f9",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "when-indian-flowers-bloomed-in-distant-lands-mumbai-graphic": {
+      "input_sha256": "d4e947c4b0a60b4d3c5d1bafd61fc7eeb25a2d8f6efc5435b6387763291b6e67",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "the-cloth-that-changed-the-world-rom-display": {
+      "input_sha256": "8a6f18612fa109becbbb1f69be8cdcdf90a14def5b574488373220aee887377f",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "ramayana-battle-ceremonial-textile-southeast-asian-market": {
+      "input_sha256": "0107532df61a400884a5635a1a92220ab4440a4c7188dd12a7fa25b00feb3b3c",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "belitung-cargo-bowls-arranged-as-waves-around-a-dhow": {
+      "input_sha256": "d0d2c1789212467246308dbea436487007c7caef928f423ac188a65682b9ea11",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "underwater-ceramics-shipwreck-video-still": {
+      "input_sha256": "c5bf89c1b8a2b674bf0d5a0bd80be7907fe32f8456b821292e7d7b0bf61e09ca",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "unidentified-reclining-figure-on-a-beach": {
+      "input_sha256": "6f87f4a0ef03b77a1db36c417ff62bdf0fe6fbba263b9b2e495d122a126dfbf8",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "eros-sleeping-cupid-caravaggio": {
+      "input_sha256": "b1b09a359e27241baa90fba952981e2bc941850f2744d959033b10cbdaeb2a1d",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "sleeping-cupid-above-paper-boats-lampedusa-display": {
+      "input_sha256": "2a8e3c1030f657e3dd1c479fdd4db316a36112d071962552924b5e11ee33ba80",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "the-cross-subodh-kerkar": {
+      "input_sha256": "f16620ccb90dcd74348d74543878ecc98a2be6fe5800763557485e94212766b0",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "indias-first-biennale-fort-kochi-poster": {
+      "input_sha256": "55d609fbbd68690111707c5147ddbdbde449aae93e3b3f6e69fdd1ee39a6f8ec",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "its-my-biennale-repeated-campaign-design": {
+      "input_sha256": "21890287bbe86e9037e441c3c8ef0a63608406fcf329bfb7d128f8f455f375c1",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "its-my-biennale-alternate-campaign-portrait": {
+      "input_sha256": "ab52a2caa0bd67158da968ad40b6185aaf0958e6dec7e92f6fac60e9e7aa0249",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "the-ship-of-tarshish-prasad-raghavan": {
+      "input_sha256": "5e4bc20d6573fe7f44458b6d4340ef11a550aa6daef67b357c880cba354c374e",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "vallarpadam-container-terminal-lecture-photograph": {
+      "input_sha256": "c501c55d62dc87676609a2fd8f1d70b60e5f5ba72abc1f07f8484218d44ad0a8",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "seated-figure-with-a-log-l-n-tallur": {
+      "input_sha256": "a0de894a4f7e16d0589655da351a49bdfb57fa0be4eaf8ac25312ff3bbd7b037",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "veni-vidi-vici-l-n-tallur": {
+      "input_sha256": "63edc5f5a1094155d776cc7495c3f23d3c79ed89a59a0e90b5aae04e328c35b8",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "elephant-by-the-shore-framed-historical-image": {
+      "input_sha256": "289dfbaca9d07f4513644510ea66d05343b41c04660c340bbde01bfd6c4b7425",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "quintessential-l-n-tallur": {
+      "input_sha256": "aebff5eacafcb6c91719e98b14e07623a3c51b0363033d4c76ec02b90251af3a",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "oceanic-history-and-connected-art-histories": {
+      "input_sha256": "4f283ab2be7598b51a4ed5380e5ba8c95617e751f4ddebe6bfde2322f5b55159",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "conceptual-authorship-and-collaboration-with-the-ocean": {
+      "input_sha256": "2acfdfe91f215d3986913fb0900bf70c1759aac8647b43ff4e864d5d6d98e850",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "kochi-muziris-biennale-and-reclaiming-global-ties": {
+      "input_sha256": "c47ef7820d60b7369c5971444550bffcd0a9ccac6ba6317ca53835a975126ab3",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    },
+    "why-reclaim-oceanic-ties-today": {
+      "input_sha256": "050c59748e879d09992e11b1b5bb14fd07dd8df9e55247f5ad59826267a3043c",
+      "review_file": "corpus_data/reviews/module8.py",
+      "review_scope": "All associated index rows and cited slide content; small details asserted only when resolved or explicitly captioned."
+    }
+  }
+}

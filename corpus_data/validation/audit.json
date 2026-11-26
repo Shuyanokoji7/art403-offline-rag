@@ -1,0 +1,450 @@
+{
+  "status": "pass",
+  "editorial_version": "confidence-v2",
+  "pages": 155,
+  "input_rows": 269,
+  "entities": 223,
+  "features": 117,
+  "articles": 340,
+  "types": {
+    "decorative_object": 1,
+    "textile": 19,
+    "sculpture_relief": 22,
+    "architecture": 24,
+    "metalwork": 6,
+    "painting_manuscript": 63,
+    "theme_discourse": 9,
+    "print": 49,
+    "photograph": 14,
+    "concept_term": 7,
+    "exhibition_display": 9
+  },
+  "entity_statuses": {
+    "draft": 40,
+    "sourced": 183
+  },
+  "feature_statuses": {
+    "sourced": 109,
+    "draft": 8
+  },
+  "field_coverage": {
+    "included": 736,
+    "omitted": 348
+  },
+  "labelled_comparisons": 87,
+  "source_records": 81,
+  "article_tokens": 444413,
+  "tokenizer": "cl100k_base",
+  "chunks": 2975,
+  "per_module": [
+    {
+      "module": 1,
+      "pages": 25,
+      "index_rows": 43,
+      "primary_entity_articles": 35,
+      "entity_occurrences": 35
+    },
+    {
+      "module": 2,
+      "pages": 16,
+      "index_rows": 24,
+      "primary_entity_articles": 21,
+      "entity_occurrences": 22
+    },
+    {
+      "module": 3,
+      "pages": 25,
+      "index_rows": 40,
+      "primary_entity_articles": 35,
+      "entity_occurrences": 36
+    },
+    {
+      "module": 4,
+      "pages": 10,
+      "index_rows": 9,
+      "primary_entity_articles": 10,
+      "entity_occurrences": 10
+    },
+    {
+      "module": 5,
+      "pages": 24,
+      "index_rows": 35,
+      "primary_entity_articles": 34,
+      "entity_occurrences": 34
+    },
+    {
+      "module": 6,
+      "pages": 21,
+      "index_rows": 30,
+      "primary_entity_articles": 33,
+      "entity_occurrences": 33
+    },
+    {
+      "module": 7,
+      "pages": 14,
+      "index_rows": 26,
+      "primary_entity_articles": 28,
+      "entity_occurrences": 29
+    },
+    {
+      "module": 8,
+      "pages": 20,
+      "index_rows": 62,
+      "primary_entity_articles": 27,
+      "entity_occurrences": 30
+    }
+  ],
+  "broken_local_links": [],
+  "articles_with_slide_context": 340,
+  "authored_slide_arguments": 155,
+  "entity_claim_tiers": {
+    "1": 1079,
+    "2": 474
+  },
+  "exam_distractors": 340,
+  "pilot_revision_passed": true,
+  "draft_articles": [
+    {
+      "id": "uncaptioned-floral-dish-on-the-course-cover",
+      "path": "articles/module-1/uncaptioned-floral-dish-on-the-course-cover.md",
+      "reasons": [
+        "maker",
+        "exact date",
+        "place of manufacture",
+        "specific ceramic body"
+      ]
+    },
+    {
+      "id": "uncaptioned-floral-garment-detail-on-the-course-cover",
+      "path": "articles/module-1/uncaptioned-floral-garment-detail-on-the-course-cover.md",
+      "reasons": [
+        "maker",
+        "exact date",
+        "place of manufacture",
+        "fibre and precise decorative technique"
+      ]
+    },
+    {
+      "id": "trader-with-horses-mahanabami-dibba-relief",
+      "path": "articles/module-1/trader-with-horses-mahanabami-dibba-relief.md",
+      "reasons": [
+        "the trader’s individual identity and the queried Arab identification"
+      ]
+    },
+    {
+      "id": "uncaptioned-riverside-temple-landscape",
+      "path": "articles/module-2/uncaptioned-riverside-temple-landscape.md",
+      "reasons": [
+        "Site, photographer and date uncaptioned."
+      ]
+    },
+    {
+      "id": "uncaptioned-miniature-detail-turbaned-man",
+      "path": "articles/module-3/uncaptioned-miniature-detail-turbaned-man.md",
+      "reasons": [
+        "Artist, sitter, date and original object uncaptioned."
+      ]
+    },
+    {
+      "id": "european-print-above-the-tambur-portrait-left",
+      "path": "articles/module-3/european-print-above-the-tambur-portrait-left.md",
+      "reasons": [
+        "Individual print subject, maker and process unresolved."
+      ]
+    },
+    {
+      "id": "european-print-above-the-tambur-portrait-right",
+      "path": "articles/module-3/european-print-above-the-tambur-portrait-right.md",
+      "reasons": [
+        "Individual print subject, maker and process unresolved."
+      ]
+    },
+    {
+      "id": "thin-rider-on-a-marbled-horse-comparison-image",
+      "path": "articles/module-3/thin-rider-on-a-marbled-horse-comparison-image.md",
+      "reasons": [
+        "Left image has no separate title, maker or date."
+      ]
+    },
+    {
+      "id": "uncaptioned-domed-complex-possible-ibrahim-rauza",
+      "path": "articles/module-3/uncaptioned-domed-complex-possible-ibrahim-rauza.md",
+      "reasons": [
+        "Site identification remains provisional."
+      ]
+    },
+    {
+      "id": "voc-ship-model-video-documentation",
+      "path": "articles/module-4/voc-ship-model-video-documentation.md",
+      "reasons": [
+        "Specific model identity, maker and original photograph metadata are absent."
+      ]
+    },
+    {
+      "id": "akbars-church-agra",
+      "path": "articles/module-5/akbars-church-agra.md",
+      "reasons": [
+        "Chronology of the visible building phases is not established by the slide."
+      ]
+    },
+    {
+      "id": "crucifixion-durer-attribution-queried",
+      "path": "articles/module-5/crucifixion-durer-attribution-queried.md",
+      "reasons": [
+        "Caption explicitly queries attribution; precise print catalogue identity unresolved."
+      ]
+    },
+    {
+      "id": "luna-print-inset-in-the-gulshan-album",
+      "path": "articles/module-5/luna-print-inset-in-the-gulshan-album.md",
+      "reasons": [
+        "Printmaker, process and precise edition not supplied."
+      ]
+    },
+    {
+      "id": "seated-man-gulshan-composite-folio",
+      "path": "articles/module-5/seated-man-gulshan-composite-folio.md",
+      "reasons": [
+        "Individual attribution and date are not assigned by the lecture."
+      ]
+    },
+    {
+      "id": "three-men-gulshan-composite-folio",
+      "path": "articles/module-5/three-men-gulshan-composite-folio.md",
+      "reasons": [
+        "Individual attribution and date are not assigned by the lecture."
+      ]
+    },
+    {
+      "id": "reclining-lion-gulshan-composite-folio",
+      "path": "articles/module-5/reclining-lion-gulshan-composite-folio.md",
+      "reasons": [
+        "Individual attribution and date are not assigned by the lecture."
+      ]
+    },
+    {
+      "id": "standing-ruler-drawing-possibly-rembrandt",
+      "path": "articles/module-5/standing-ruler-drawing-possibly-rembrandt.md",
+      "reasons": [
+        "Artist and exact drawing identity are not captioned on slide 24."
+      ]
+    },
+    {
+      "id": "saint-sebastian-woodblock-matrix",
+      "path": "articles/module-6/saint-sebastian-woodblock-matrix.md",
+      "reasons": [
+        "Exact object, maker and date are unspecified."
+      ]
+    },
+    {
+      "id": "saint-sebastian-woodblock-impression",
+      "path": "articles/module-6/saint-sebastian-woodblock-impression.md",
+      "reasons": [
+        "Exact object, maker and date are unspecified."
+      ]
+    },
+    {
+      "id": "lithographic-stone-demonstration-video-still",
+      "path": "articles/module-6/lithographic-stone-demonstration-video-still.md",
+      "reasons": [
+        "Image identity, maker and demonstration metadata are not provided."
+      ]
+    },
+    {
+      "id": "antiquities-of-india-title-page",
+      "path": "articles/module-6/antiquities-of-india-title-page.md",
+      "reasons": [
+        "1799-looking plate imprint versus 1808 caption requires edition-level verification."
+      ]
+    },
+    {
+      "id": "jazb-al-qulub-ila-diyar-al-mahbub-lithographed-cover",
+      "path": "articles/module-6/jazb-al-qulub-ila-diyar-al-mahbub-lithographed-cover.md",
+      "reasons": [
+        "Printer transcription needs catalogue correction."
+      ]
+    },
+    {
+      "id": "mahavir-chitrasala-studio",
+      "path": "articles/module-6/mahavir-chitrasala-studio.md",
+      "reasons": [
+        "Exact print process and edition uncaptioned."
+      ]
+    },
+    {
+      "id": "figure-by-a-tree-and-mountain-ukiyo-e-video-image",
+      "path": "articles/module-7/figure-by-a-tree-and-mountain-ukiyo-e-video-image.md",
+      "reasons": [
+        "Original work, artist, date and whether the source is painting or print are unresolved."
+      ]
+    },
+    {
+      "id": "olympia-reproduction-inside-zolas-portrait",
+      "path": "articles/module-7/olympia-reproduction-inside-zolas-portrait.md",
+      "reasons": [
+        "Separate print metadata and, for unnamed components, catalogue identification need verification."
+      ]
+    },
+    {
+      "id": "japanese-standing-figure-print-inside-zolas-portrait",
+      "path": "articles/module-7/japanese-standing-figure-print-inside-zolas-portrait.md",
+      "reasons": [
+        "Separate print metadata and, for unnamed components, catalogue identification need verification."
+      ]
+    },
+    {
+      "id": "monochrome-group-reproduction-inside-zolas-portrait",
+      "path": "articles/module-7/monochrome-group-reproduction-inside-zolas-portrait.md",
+      "reasons": [
+        "Separate print metadata and, for unnamed components, catalogue identification need verification."
+      ]
+    },
+    {
+      "id": "claude-monet-photographic-portrait-in-video",
+      "path": "articles/module-7/claude-monet-photographic-portrait-in-video.md",
+      "reasons": [
+        "Original photographic metadata uncaptioned."
+      ]
+    },
+    {
+      "id": "mary-cassatt-photographic-portrait-in-video",
+      "path": "articles/module-7/mary-cassatt-photographic-portrait-in-video.md",
+      "reasons": [
+        "Original photographic metadata uncaptioned."
+      ]
+    },
+    {
+      "id": "view-of-tokyo-nineteenth-century-photograph",
+      "path": "articles/module-7/view-of-tokyo-nineteenth-century-photograph.md",
+      "reasons": [
+        "Exact place, photographer, process and date remain unspecified."
+      ]
+    },
+    {
+      "id": "floral-textile-detail-tapi-poster-frame",
+      "path": "articles/module-8/floral-textile-detail-tapi-poster-frame.md",
+      "reasons": [
+        "Specific textile identity, date and technique uncaptioned."
+      ]
+    },
+    {
+      "id": "interwoven-globe-entrance-banner-arrangement",
+      "path": "articles/module-8/interwoven-globe-entrance-banner-arrangement.md",
+      "reasons": [
+        "Individual entrance-display objects are not labelled legibly."
+      ]
+    },
+    {
+      "id": "interwoven-globe-gallery-sightline",
+      "path": "articles/module-8/interwoven-globe-gallery-sightline.md",
+      "reasons": [
+        "Individual exhibited-object identities and origins remain unverified."
+      ]
+    },
+    {
+      "id": "asia-in-amsterdam-entrance-and-gallery-arrangements",
+      "path": "articles/module-8/asia-in-amsterdam-entrance-and-gallery-arrangements.md",
+      "reasons": [
+        "Object-level labels and production origins in the gallery views are not legible."
+      ]
+    },
+    {
+      "id": "the-cloth-that-changed-the-world-rom-display",
+      "path": "articles/module-8/the-cloth-that-changed-the-world-rom-display.md",
+      "reasons": [
+        "Individual object metadata unresolved."
+      ]
+    },
+    {
+      "id": "underwater-ceramics-shipwreck-video-still",
+      "path": "articles/module-8/underwater-ceramics-shipwreck-video-still.md",
+      "reasons": [
+        "Exact underwater site and objects not captioned."
+      ]
+    },
+    {
+      "id": "unidentified-reclining-figure-on-a-beach",
+      "path": "articles/module-8/unidentified-reclining-figure-on-a-beach.md",
+      "reasons": [
+        "Artwork, maker, date, location and intended meaning unidentified."
+      ]
+    },
+    {
+      "id": "sleeping-cupid-above-paper-boats-lampedusa-display",
+      "path": "articles/module-8/sleeping-cupid-above-paper-boats-lampedusa-display.md",
+      "reasons": [
+        "Paper-boat creator and full curatorial statement not supplied."
+      ]
+    },
+    {
+      "id": "seated-figure-with-a-log-l-n-tallur",
+      "path": "articles/module-8/seated-figure-with-a-log-l-n-tallur.md",
+      "reasons": [
+        "Individual title, date, materials and participation instructions are uncaptioned."
+      ]
+    },
+    {
+      "id": "elephant-by-the-shore-framed-historical-image",
+      "path": "articles/module-8/elephant-by-the-shore-framed-historical-image.md",
+      "reasons": [
+        "Original work identity, medium, maker and date unresolved."
+      ]
+    },
+    {
+      "id": "feature-circular-city",
+      "path": "articles/_shared/feature-circular-city.md",
+      "reasons": [
+        "External grounding incomplete; see Attribution Note."
+      ]
+    },
+    {
+      "id": "feature-narasimha-vasantotsava",
+      "path": "articles/_shared/feature-narasimha-vasantotsava.md",
+      "reasons": [
+        "External grounding incomplete; see Attribution Note."
+      ]
+    },
+    {
+      "id": "feature-ocean-contemporary",
+      "path": "articles/_shared/feature-ocean-contemporary.md",
+      "reasons": [
+        "External grounding incomplete; see Attribution Note."
+      ]
+    },
+    {
+      "id": "feature-orientalism-occidentalism",
+      "path": "articles/_shared/feature-orientalism-occidentalism.md",
+      "reasons": [
+        "External grounding incomplete; see Attribution Note."
+      ]
+    },
+    {
+      "id": "feature-poster",
+      "path": "articles/_shared/feature-poster.md",
+      "reasons": [
+        "External grounding incomplete; see Attribution Note."
+      ]
+    },
+    {
+      "id": "feature-ramayana",
+      "path": "articles/_shared/feature-ramayana.md",
+      "reasons": [
+        "External grounding incomplete; see Attribution Note."
+      ]
+    },
+    {
+      "id": "feature-stucco",
+      "path": "articles/_shared/feature-stucco.md",
+      "reasons": [
+        "External grounding incomplete; see Attribution Note."
+      ]
+    },
+    {
+      "id": "feature-yogini-andal",
+      "path": "articles/_shared/feature-yogini-andal.md",
+      "reasons": [
+        "External grounding incomplete; see Attribution Note."
+      ]
+    }
+  ]
+}

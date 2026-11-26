@@ -1,0 +1,129 @@
+{
+  "reviewed_before_full_scale": true,
+  "review_date": "2026-11-22",
+  "mode": "in-session vision review by Codex; exact model version not exposed",
+  "master_dimensions": [
+    3000,
+    2250
+  ],
+  "master_dpi": 300,
+  "method": "Overview plus unresized 1000 x 1000 crops. Cropping precedes model ingestion, avoiding reliance on a large full-slide image for fine detail. No claim is made about inaccessible internal model resampling.",
+  "outcome": "pass_with_source_resolution_limits",
+  "checks": [
+    {
+      "type": "sculpture_relief",
+      "module": 1,
+      "slide": 16,
+      "observed": "The trader is between horses; a collar edge, bent arms and lower garment outline are distinguishable. Ethnicity remains a caption question.",
+      "images": [
+        "corpus_data/review_images/validation-sculpture_relief.png"
+      ],
+      "status": "pass_with_limits"
+    },
+    {
+      "type": "textile",
+      "module": 2,
+      "slide": 7,
+      "observed": "A single shared bird body, lateral necks and dense feather lines are visible inside the arch-shaped panel; two-headed motif is caption-supported.",
+      "images": [
+        "corpus_data/review_images/validation-textile.png"
+      ],
+      "status": "pass_with_limits"
+    },
+    {
+      "type": "architecture",
+      "module": 3,
+      "slide": 16,
+      "observed": "Corner tower galleries, pointed wall arches and the dome-base arcade are resolved. The diagram explicitly labels supporting arches.",
+      "images": [
+        "corpus_data/review_images/validation-architecture.png",
+        "corpus_data/review_images/validation-architecture-detail.png"
+      ],
+      "status": "pass_with_limits"
+    },
+    {
+      "type": "metalwork",
+      "module": 3,
+      "slide": 18,
+      "observed": "Openwork gaps, curling trunk at left, bird at right, red eye insets and feather engraving can be separated in the native crop.",
+      "images": [
+        "corpus_data/review_images/validation-metalwork-detail.png",
+        "corpus_data/review_images/validation-metalwork.png"
+      ],
+      "status": "pass_with_limits"
+    },
+    {
+      "type": "painting_manuscript",
+      "module": 5,
+      "slide": 19,
+      "observed": "Bull legs, fish eye, globe stand, balance at left and small circular elements in the right standard are resolved. Tiny inscriptions are not reliably legible.",
+      "images": [
+        "corpus_data/review_images/validation-painting_manuscript.png"
+      ],
+      "status": "pass_with_limits"
+    },
+    {
+      "type": "print",
+      "module": 6,
+      "slide": 19,
+      "observed": "Lower-left skull and long bone, multilingual Kali label and CALCUTTA ART STUDIO imprint are distinguishable. Number of colour stones cannot be counted from this impression.",
+      "images": [
+        "corpus_data/review_images/validation-print.png"
+      ],
+      "status": "pass_with_limits"
+    },
+    {
+      "type": "photograph",
+      "module": 7,
+      "slide": 13,
+      "observed": "Striped garment, rectangular instrument body, plucking hand and seated posture at right are resolved; studio setting is an interpretation supported by pose and backdrop.",
+      "images": [
+        "corpus_data/review_images/validation-photograph.png"
+      ],
+      "status": "pass_with_limits"
+    },
+    {
+      "type": "exhibition_display",
+      "module": 8,
+      "slide": 13,
+      "observed": "Painting above, large empty wall interval, paper boats on the floor below, and foreground rope barrier are separable. Painting details remain limited by the low-resolution embedded photo.",
+      "images": [
+        "corpus_data/review_images/validation-exhibition_display.png"
+      ],
+      "status": "pass_with_limits"
+    },
+    {
+      "type": "concept_term",
+      "module": 6,
+      "slide": 4,
+      "observed": "Text-first route: relief, intaglio and planography are explicitly listed; no image-based definition is fabricated.",
+      "images": [],
+      "status": "pass_text_route"
+    },
+    {
+      "type": "theme_discourse",
+      "module": 8,
+      "slide": 20,
+      "observed": "Text-first route: connectedness question is linked to three recap works; interpretive argument is separated from object attribution.",
+      "images": [],
+      "status": "pass_text_route"
+    },
+    {
+      "type": "decorative_object",
+      "module": 1,
+      "slide": 1,
+      "observed": "Circular glossy white dish, double red central circle, two upright central red flowers and three enlarged outer floral groups; native crop reviewed before confidence-v2 rollout.",
+      "images": [
+        "corpus_data/review_images/m1-p01-crop-408-386-890-880.png"
+      ],
+      "status": "pass_with_limits",
+      "revision": "confidence-v2"
+    }
+  ],
+  "limitations": [
+    "300 DPI cannot create detail absent in embedded source photographs.",
+    "No analytical pigment identification, microscopic toolmark attribution, invisible plan reconstruction, or translation of unreadable inscriptions.",
+    "Text-only types tested for routing, not visual resolution."
+  ],
+  "revision_note": "Original ten-type pilot retained; decorative_object was piloted on the cover dish before the v2 reprocessing."
+}

@@ -1,0 +1,12 @@
+{
+  "threads": 6,
+  "embedding_threads": 4,
+  "context_tokens": 4096,
+  "max_answer_tokens": 420,
+  "mcq_answer_tokens": 560,
+  "chunk_tokens": 360,
+  "overlap_words": 24,
+  "top_k": 6,
+  "min_similarity": 0.55,
+  "timeout_seconds": 300
+}

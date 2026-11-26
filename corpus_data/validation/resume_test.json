@@ -1,0 +1,31 @@
+{
+  "status": "pass",
+  "editorial_version": "confidence-v2",
+  "files_checked": 347,
+  "comparison": "SHA-256 and modification time",
+  "changed_files": [],
+  "elapsed_seconds": 6.17,
+  "stage2": {
+    "cache_hits": 223,
+    "built": 0,
+    "pending": [],
+    "total": 223
+  },
+  "stage3": {
+    "features_built": 0,
+    "features_cached": 117,
+    "entities_built": 0,
+    "entities_cached": 223
+  },
+  "stage4": {
+    "built": 0,
+    "cache_hits": 340,
+    "total": 340
+  },
+  "regression_tests": {
+    "passed": 20,
+    "failed": 0,
+    "command": "python corpus_pipeline/test_pipeline.py",
+    "result": "Ran 20 tests; OK (completed before the cache rerun)."
+  }
+}

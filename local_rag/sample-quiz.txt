@@ -1,0 +1,37 @@
+# A practice quiz for: python -m local_rag mcq --file local_rag/sample-quiz.txt
+#
+# Format: a stem, then one option per line starting with "A.", "B)", or "(c)".
+# Blank lines separate questions. An optional "Answer: X" line is scored and is
+# never shown to the model.
+#
+# The keys below are reconstructed from Art_History_MCQ_Complete_Context_Guide.docx,
+# whose own accuracy note says they are chat-derived, NOT verified answer-key results.
+# Treat a disagreement here as "check the course material", not "the model is wrong".
+
+Which description best fits Toulouse-Lautrec's Jane Avril chromolithograph?
+A. Careful tonal modelling and deep perspective in the academic manner
+B. A photographic halftone reproduction of a studio portrait
+C. Monochrome etching with dense cross-hatching
+D. Sinuous lines, block colours and patterns influenced by Japanese prints
+Answer: D
+
+How did Manet's and Van Gogh's appreciation of Japan differ?
+A. Manet's interest was more academic and studied; Van Gogh's more emotionally intense
+B. Manet painted water lilies while Van Gogh ignored Japanese art
+C. Neither artist showed any aesthetic appreciation of Japanese prints
+D. Both treated Japanese prints purely as commercial merchandise
+Answer: A
+
+What characterises Calcutta chromolithographs?
+A. Regional aesthetics, European stories and European print technology
+B. Regional narratives combined with regional and European aesthetics
+C. Exclusively European subject matter and European techniques
+D. Hand-painted miniatures with no printing involved
+Answer: B
+
+Which features are characteristic of the Lotus Mahal at Hampi?
+A. Rock-cut cave shrines of the Gupta period
+B. Cusped arches combined with Hindu temple superstructures
+C. A Portuguese colonial chapel plan
+D. A timber Mughal pavilion
+Answer: B

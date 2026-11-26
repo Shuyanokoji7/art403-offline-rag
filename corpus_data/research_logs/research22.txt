@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-22",
+  "tool": "web.run",
+  "result_received": true,
+  "urls": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/14/A_catalogue_of_books_in_the_library_of_the_Royal_academy_of_arts%2C_London_%28IA_catalogueofbooks00roya_0%29.pdf",
+    "https://www.ngv.vic.gov.au/explore/collection/work/52912/",
+    "https://www.nature.com/articles/s40494-021-00577-2",
+    "https://www.metmuseum.org/art/collection/search/55289?searchField=ArtistCulture",
+    "https://resources.metmuseum.org/resources/metpublications/pdf/Hokusai_The_Metropolitan_Museum_of_Art_Bulletin_v_43_no_1_Summer_1985.pdf",
+    "https://collections.soane.org/b7189",
+    "https://flickr.com/photos/britishlibrary/51195121554/in/album-72157719511098213",
+    "https://www.forgelynch.com/_files/ugd/78856d_c289d21e51ba4a3f9f7b09d1e2f8b98c.pdf",
+    "https://www.nmwa.go.jp/en/exhibitions/pdf/2017hokusai_list.pdf",
+    "https://digital.soas.ac.uk/content/AA/00/00/12/67/00001/pdf.pdf",
+    "https://digital.library.adelaide.edu.au/server/api/core/bitstreams/ce0f5272-6083-481b-a851-af6e3b0bf404/content",
+    "https://www.great-sicily.com/post/the-events-continue-in-agrigento-capital-of-culture-2025-april",
+    "https://paperzz.com/doc/9473694/art--naqqashi--and-artists--naqqashan--in-qajar-persia",
+    "https://www.fujibi.or.jp/en/collection/artwork/06149/",
+    "https://www.ansa.it/sito/notizie/cultura/arte/2025/09/20/nasce-dai-rifiuti-ad-agrigento-un-pinocchio-antimilitarista_1b1ec96b-0c48-415a-a82a-4bddf30b69d2.html",
+    "https://www.academia.edu/104944362/Retrieval_of_Identity_Layers_in_Persian_Illustrated_Lithographed_Manuscripts_with_Religious_Themes_of_the_Qajar_Era",
+    "https://libraryguides.mdc.edu/CrucibleofBeauty/Fukei",
+    "https://newikis.com/en/Mimmo_Paladino",
+    "https://en.wikipedia.org/wiki/Mimmo_Paladino",
+    "https://www.youtube.com/watch?v=J1FNOSwD_Fk",
+    "https://it.wikipedia.org/wiki/Domenico_Paladino",
+    "https://fr.wikipedia.org/wiki/Sous_le_pont_Mannen_%C3%A0_Fukagawa",
+    "https://es.wikipedia.org/wiki/Bajo_el_puente_Mannen_en_Fukagawa",
+    "https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji",
+    "https://en.wikipedia.org/wiki/James_Tod"
+  ],
+  "note": "Retrieval receipt; copyrighted source bodies are not redistributed. Consult the source registry for the exact scope of evidence used."
+}

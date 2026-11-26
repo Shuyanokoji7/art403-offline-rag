@@ -1,0 +1,29 @@
+{
+  "batch": "research09",
+  "retrieved": "2026-11-22",
+  "tool": "web.run",
+  "result_received": true,
+  "urls": [
+    "https://www.metmuseum.org/art/collection/search/872977",
+    "https://www.museumsofindia.gov.in/repository/record/gom_goa-acc-no-0036-34",
+    "https://find-and-update.company-information.service.gov.uk/company/11726591",
+    "https://device.report/m/9d00a12d46b52c5eba5dc955ba5f978bd4a9891653156983aaa76fcf32fe27ee.pdf",
+    "https://racecards.uk/horse/wootz",
+    "https://jameelcentre.ashmolean.org/collection/921/per_page/25/offset/4100/sort_by/random/object/17946",
+    "https://www.crunchbase.com/organization/wootz-buildsys",
+    "https://searcharchives.bl.uk/?f%5Blevel_ssi%5D%5B%5D=%5B41%5D+Item&f%5Bmaterial_type_si%5D%5B%5D=Prints%2C+Drawings+and+Paintings&f%5Bproject_collections_ssim%5D%5B%5D=MacKenzie+Collection&page=2&per_page=100&search_field=all_fields&sort=relevance",
+    "https://brill.com/downloadpdf/display/title/15305.pdf",
+    "https://imp-art.org/articles/yali/",
+    "http://www.jstor.org/stable/25222499.",
+    "https://catalog.davidmus.dk/en/item/1802/13-2022.pdf",
+    "https://islamansiklopedisi.org.tr/yali",
+    "https://www.astebolaffi.it/pdf/auctions/831.pdf",
+    "https://www.fordemilitaryantiques.com/articles/2019/4/4/is-it-wootz",
+    "https://www.jstor.org/stable/107164?",
+    "https://www.federalcompass.com/fed-contract-award/FA864926P0090",
+    "https://www.tf.uni-kiel.de/matwis/amat/def_en/articles/wootz_advanced_material/wootz_steel.html",
+    "https://assets.ctfassets.net/l47hkrce4wip/7wJoREPVeHMZAXoKBjU9an/c20595fa8a0c477b3b5679d4f2114056/011_Indian_Archaeology_A_Review_1965-66.pdf",
+    "https://ymerdigital.com/uploads/YMER240141.pdf"
+  ],
+  "retained": "URL receipt only. Authored support scopes and notes are in corpus_data/grounding; page bodies are not redistributed."
+}

@@ -1,0 +1,181 @@
+[
+  {
+    "id": "uncaptioned-floral-dish-on-the-course-cover",
+    "name": "Uncaptioned floral dish on the course cover",
+    "type": "sculpture_relief",
+    "artist_date": [],
+    "headings": [
+      "Ebb and Flow: Art and Globalism of Oceanic Networks"
+    ],
+    "notes": [
+      {
+        "text": "Upper left. Floral dish. The cover gives no object caption.",
+        "row_id": "m1-p01-r01"
+      }
+    ],
+    "references": [
+      {
+        "module": 1,
+        "slide": 1,
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "image": "slides/module-1/page_1.png",
+        "image_sha256": "1c2765abc9d82fae38ef036f53312f0860377710c597fdd64565b524318bfa07",
+        "text": "corpus_data/slide_text/module-1/page_1.txt"
+      }
+    ],
+    "accession_numbers": [],
+    "source_rows": [
+      {
+        "row_id": "m1-p01-r01",
+        "module": 1,
+        "slide": 1,
+        "name": "untitled",
+        "artist_date": "—",
+        "heading": "Ebb and Flow: Art and Globalism of Oceanic Networks",
+        "notes": "Upper left. Floral dish. The cover gives no object caption.",
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "index_line": 9,
+        "image": "slides/module-1/page_1.png"
+      }
+    ],
+    "classification_basis": "Reviewed slide image and index context; text-only supplemental concepts use extracted slide text.",
+    "merge_basis": "Same identified object, component, or curatorial display unit. Distinct indexed objects inside a display are retained as source_rows.",
+    "supplemental": false
+  },
+  {
+    "id": "uncaptioned-floral-garment-detail-on-the-course-cover",
+    "name": "Uncaptioned floral garment detail on the course cover",
+    "type": "textile",
+    "artist_date": [],
+    "headings": [
+      "Ebb and Flow: Art and Globalism of Oceanic Networks"
+    ],
+    "notes": [
+      {
+        "text": "Lower left. Detail of red, green and gold floral fabric. No object caption.",
+        "row_id": "m1-p01-r02"
+      }
+    ],
+    "references": [
+      {
+        "module": 1,
+        "slide": 1,
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "image": "slides/module-1/page_1.png",
+        "image_sha256": "1c2765abc9d82fae38ef036f53312f0860377710c597fdd64565b524318bfa07",
+        "text": "corpus_data/slide_text/module-1/page_1.txt"
+      }
+    ],
+    "accession_numbers": [],
+    "source_rows": [
+      {
+        "row_id": "m1-p01-r02",
+        "module": 1,
+        "slide": 1,
+        "name": "untitled",
+        "artist_date": "—",
+        "heading": "Ebb and Flow: Art and Globalism of Oceanic Networks",
+        "notes": "Lower left. Detail of red, green and gold floral fabric. No object caption.",
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "index_line": 10,
+        "image": "slides/module-1/page_1.png"
+      }
+    ],
+    "classification_basis": "Reviewed slide image and index context; text-only supplemental concepts use extracted slide text.",
+    "merge_basis": "Same identified object, component, or curatorial display unit. Distinct indexed objects inside a display are retained as source_rows.",
+    "supplemental": false
+  },
+  {
+    "id": "trader-with-horses-mahanabami-dibba-relief",
+    "name": "Trader with horses — Mahanabami Dibba relief",
+    "type": "sculpture_relief",
+    "artist_date": [],
+    "headings": [
+      "Ebb and Flow: Art and Globalism of Oceanic Networks",
+      "Trade connections",
+      "Mahanabami Dibba and Cultural/Trade Connections"
+    ],
+    "notes": [
+      {
+        "text": "Right. The image recurs on slide 16, where the caption tentatively identifies an Arab trader.",
+        "row_id": "m1-p01-r03"
+      },
+      {
+        "text": "Left. The caption asks whether the trader is Arab. The lecture connects the horse trade with steel and textiles.",
+        "row_id": "m1-p16-r01"
+      },
+      {
+        "text": "Lower left. Repeats slide 16, which questions the trader’s identification.",
+        "row_id": "m1-p25-r03"
+      }
+    ],
+    "references": [
+      {
+        "module": 1,
+        "slide": 1,
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "image": "slides/module-1/page_1.png",
+        "image_sha256": "1c2765abc9d82fae38ef036f53312f0860377710c597fdd64565b524318bfa07",
+        "text": "corpus_data/slide_text/module-1/page_1.txt"
+      },
+      {
+        "module": 1,
+        "slide": 16,
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "image": "slides/module-1/page_16.png",
+        "image_sha256": "34495c4079a55f109b7e6f105d8ea80491c50918cf171a6b7d913f826f03f0d1",
+        "text": "corpus_data/slide_text/module-1/page_16.txt"
+      },
+      {
+        "module": 1,
+        "slide": 25,
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "image": "slides/module-1/page_25.png",
+        "image_sha256": "319bf035fe2853cf352e7734aae5048896ba8607d3c2cdf63b53fe9f6e63148d",
+        "text": "corpus_data/slide_text/module-1/page_25.txt"
+      }
+    ],
+    "accession_numbers": [],
+    "source_rows": [
+      {
+        "row_id": "m1-p01-r03",
+        "module": 1,
+        "slide": 1,
+        "name": "Relief from Mahanabami Dibba showing a trader with horses",
+        "artist_date": "—",
+        "heading": "Ebb and Flow: Art and Globalism of Oceanic Networks",
+        "notes": "Right. The image recurs on slide 16, where the caption tentatively identifies an Arab trader.",
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "index_line": 11,
+        "image": "slides/module-1/page_1.png"
+      },
+      {
+        "row_id": "m1-p16-r01",
+        "module": 1,
+        "slide": 16,
+        "name": "Relief from Mahanabami Dibba showing a trader with horses",
+        "artist_date": "—",
+        "heading": "Trade connections",
+        "notes": "Left. The caption asks whether the trader is Arab. The lecture connects the horse trade with steel and textiles.",
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "index_line": 28,
+        "image": "slides/module-1/page_16.png"
+      },
+      {
+        "row_id": "m1-p25-r03",
+        "module": 1,
+        "slide": 25,
+        "name": "Relief from Mahanabami Dibba showing a trader with horses",
+        "artist_date": "—",
+        "heading": "Mahanabami Dibba and Cultural/Trade Connections",
+        "notes": "Lower left. Repeats slide 16, which questions the trader’s identification.",
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "index_line": 50,
+        "image": "slides/module-1/page_25.png"
+      }
+    ],
+    "classification_basis": "Reviewed slide image and index context; text-only supplemental concepts use extracted slide text.",
+    "merge_basis": "Same identified object, component, or curatorial display unit. Distinct indexed objects inside a display are retained as source_rows.",
+    "supplemental": false
+  }
+]

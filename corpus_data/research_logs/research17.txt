@@ -1,0 +1,29 @@
+{
+  "batch": "research17",
+  "retrieved": "2026-11-22",
+  "tool": "web.run",
+  "result_received": true,
+  "urls": [
+    "https://rubaiyatconcordance.org/sources/",
+    "https://ci.nii.ac.jp/ncid/BB05363126?l=en",
+    "https://www.iranicaonline.org/articles/isfahan-xiii-crafts/?generate_pdf=1",
+    "https://sikhresearchjournal.org/index.php/srj/issue/download/2/2",
+    "https://sidof.segob.gob.mx/notas/getNewsletter/28-01-2025/Matutina/318982",
+    "https://openlibrary.org/works/OL44358538W/%D9%87%D9%86%D8%B1_%D9%82%D9%84%D9%85%D8%B2%D9%86%D9%89_%D8%A7%D9%8A%D8%B1%D8%A7%D9%86",
+    "https://0.comy.workers.dev/https/www.iranicaonline.org/articles/isfahan-xiii-crafts/",
+    "https://urus.uw.edu.pl/impression/31280",
+    "https://craftpersia.com/crafts/qalam-zani",
+    "https://craftpersia.com/glossary/qalamzani",
+    "https://www.tasnimnews.ir/en/news/2018/01/15/1624095/qalamzani-the-iranian-ancient-metalwork-art",
+    "https://www.loc.gov/aba/publications/Archived-LCSH39/C.pdf",
+    "https://www.ngv.vic.gov.au/explore/collection/work/32143/",
+    "https://ignca.gov.in/Asi_data/15315.pdf",
+    "https://regionalia.blb-karlsruhe.de/frontdoor/deliver/index/docId/18807/file/BLB_Schau-ins-Land_2008.pdf",
+    "https://data.fitzmuseum.cam.ac.uk/id/object/121594",
+    "https://www.nga.gov/artworks/4285-moon",
+    "https://www.magiran.com/paper/2667919/analyzing-the-technical-and-artistic-features-of-qalamzani-of-iran-in-contemporary-period?lang=en",
+    "https://en.wikipedia.org/wiki/Chromolithography",
+    "https://en.wikipedia.org/wiki/William_Griggs_%28inventor%29"
+  ],
+  "retained": "URL receipt only. Authored support scopes and notes are in corpus_data/grounding; page bodies are not redistributed."
+}

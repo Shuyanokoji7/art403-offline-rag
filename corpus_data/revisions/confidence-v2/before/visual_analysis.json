@@ -1,0 +1,273 @@
+[
+  {
+    "id": "uncaptioned-floral-dish-on-the-course-cover",
+    "name": "Uncaptioned floral dish on the course cover",
+    "type": "sculpture_relief",
+    "sections": {
+      "Subject & Narrative": "A shallow circular dish carries a central bouquet surrounded by much larger flowers that turn around the rim.",
+      "Iconographic Attributes": "Blue and red flower heads alternate with green leaves; thin curling red stems connect the outer flowers.",
+      "Pose & Gesture": "No additional gesture can be securely specified beyond the subject description.",
+      "Material & Technique": "The glossy white ground and coloured surface are visible; ceramic body, production centre and date are not established. This decorative vessel uses sculpture_relief as the nearest permitted category; it is not identified as stone sculpture.",
+      "Architectural Placement": "An original architectural location is not established by this view; a modern display support does not establish original placement.",
+      "Costume & Ethnic Markers": "No ethnic attribution is established. Costume alone is insufficient to identify nationality or origin."
+    },
+    "field_coverage": {
+      "Subject & Narrative": "reviewed",
+      "Iconographic Attributes": "reviewed",
+      "Pose & Gesture": "not_established",
+      "Material & Technique": "reviewed",
+      "Architectural Placement": "not_established",
+      "Costume & Ethnic Markers": "not_established"
+    },
+    "context": {
+      "artist_date_as_indexed": [],
+      "historical_context_as_indexed": [
+        "Ebb and Flow: Art and Globalism of Oceanic Networks"
+      ],
+      "patronage": "No specific commissioner is established beyond any explicit patron named in the retained lecture evidence.",
+      "cross_cultural_contact_evidence": "No specific route of cross-cultural contact is established for this entity by the reviewed evidence.",
+      "lecture_notes": [
+        {
+          "text": "Upper left. Floral dish. The cover gives no object caption.",
+          "row_id": "m1-p01-r01"
+        }
+      ],
+      "accession_numbers": []
+    },
+    "significance": {
+      "visual/aesthetic": "Concentric framing translates flowering plants into a radial surface pattern."
+    },
+    "feature_ids": [
+      "floral-trade"
+    ],
+    "comparisons": [],
+    "distinctions": [
+      "A floral resemblance alone does not identify this as Chinese porcelain, Dutch ceramic, or an Indian export object."
+    ],
+    "uncertainties": [
+      "Uncaptioned object; medium and provenance unverified."
+    ],
+    "status": "draft",
+    "image_references": [
+      {
+        "module": 1,
+        "slide": 1,
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "image": "slides/module-1/page_1.png",
+        "image_sha256": "1c2765abc9d82fae38ef036f53312f0860377710c597fdd64565b524318bfa07",
+        "text": "corpus_data/slide_text/module-1/page_1.txt"
+      }
+    ],
+    "lecture_references": [
+      {
+        "module": 1,
+        "slide": 1,
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "image": "slides/module-1/page_1.png",
+        "image_sha256": "1c2765abc9d82fae38ef036f53312f0860377710c597fdd64565b524318bfa07",
+        "text": "corpus_data/slide_text/module-1/page_1.txt"
+      }
+    ],
+    "vision_method": "In-session Codex visual review of slide overviews and selected unresized detail crops; exact model version and internal resampling are not exposed. Text-only review for concept_term and theme_discourse.",
+    "evidence_basis": {
+      "sections": "In-session visual review cross-checked with lecture captions; text-only argument review for theme_discourse/concept_term.",
+      "context": "Unaltered index assertions; no blanket independent verification.",
+      "significance": "Labelled course interpretation of visible/captioned evidence. External term meanings are grounded separately in Stage 3."
+    },
+    "input_sha256": "f2f399b87bdfcc6f049ef7a8c1604b890e3e27fcfb6c570afa778e469fe3641d"
+  },
+  {
+    "id": "uncaptioned-floral-garment-detail-on-the-course-cover",
+    "name": "Uncaptioned floral garment detail on the course cover",
+    "type": "textile",
+    "sections": {
+      "Technique": "The photograph shows a decorated garment-like opening, not simply an uninterrupted yard of fabric. It does not resolve whether the gold-coloured lines are embroidery, woven threads or applied decoration.",
+      "Field & Border Organization": "Two ornamented panels flank a pale vertical opening. Red outer edges enclose cream floral borders and a dark green field filled with gold-coloured scrolling stems.",
+      "Dyes & Materials": "No fibre or dyestuff identification is established beyond the caption; visible colours are not chemical identifications.",
+      "Function": "The curved upper edges and central opening suggest a garment; the cover provides no object label.",
+      "Circulation": "A complete route from manufacture to use and collection is not established; those locations must not be conflated."
+    },
+    "field_coverage": {
+      "Technique": "reviewed",
+      "Field & Border Organization": "reviewed",
+      "Dyes & Materials": "not_established",
+      "Function": "reviewed",
+      "Circulation": "not_established"
+    },
+    "context": {
+      "artist_date_as_indexed": [],
+      "historical_context_as_indexed": [
+        "Ebb and Flow: Art and Globalism of Oceanic Networks"
+      ],
+      "patronage": "No specific commissioner is established beyond any explicit patron named in the retained lecture evidence.",
+      "cross_cultural_contact_evidence": "No specific route of cross-cultural contact is established for this entity by the reviewed evidence.",
+      "lecture_notes": [
+        {
+          "text": "Lower left. Detail of red, green and gold floral fabric. No object caption.",
+          "row_id": "m1-p01-r02"
+        }
+      ],
+      "accession_numbers": []
+    },
+    "significance": {
+      "visual/aesthetic": "Nested borders make the garment opening itself part of the decorative composition."
+    },
+    "feature_ids": [
+      "floral-trade"
+    ],
+    "comparisons": [],
+    "distinctions": [
+      "Do not turn visible gold colour into a claim of gold thread, or identify this cover detail as kalamkari without a label."
+    ],
+    "uncertainties": [
+      "Title, date, material and exact technique absent."
+    ],
+    "status": "draft",
+    "image_references": [
+      {
+        "module": 1,
+        "slide": 1,
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "image": "slides/module-1/page_1.png",
+        "image_sha256": "1c2765abc9d82fae38ef036f53312f0860377710c597fdd64565b524318bfa07",
+        "text": "corpus_data/slide_text/module-1/page_1.txt"
+      }
+    ],
+    "lecture_references": [
+      {
+        "module": 1,
+        "slide": 1,
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "image": "slides/module-1/page_1.png",
+        "image_sha256": "1c2765abc9d82fae38ef036f53312f0860377710c597fdd64565b524318bfa07",
+        "text": "corpus_data/slide_text/module-1/page_1.txt"
+      }
+    ],
+    "vision_method": "In-session Codex visual review of slide overviews and selected unresized detail crops; exact model version and internal resampling are not exposed. Text-only review for concept_term and theme_discourse.",
+    "evidence_basis": {
+      "sections": "In-session visual review cross-checked with lecture captions; text-only argument review for theme_discourse/concept_term.",
+      "context": "Unaltered index assertions; no blanket independent verification.",
+      "significance": "Labelled course interpretation of visible/captioned evidence. External term meanings are grounded separately in Stage 3."
+    },
+    "input_sha256": "6f639ceb17e2231f75992eccefd3554a6babe9cf0d1ae074ed7af5fdf5c3c65f"
+  },
+  {
+    "id": "trader-with-horses-mahanabami-dibba-relief",
+    "name": "Trader with horses — Mahanabami Dibba relief",
+    "type": "sculpture_relief",
+    "sections": {
+      "Subject & Narrative": "A central standing handler appears between two inward-facing horses. Slide 16 places the scene within a discussion of horse trading, wootz steel and textiles.",
+      "Iconographic Attributes": "No additional securely identified attribute is recorded; unresolved small objects have not been named.",
+      "Pose & Gesture": "Both arms bend toward the horses; the figure and animals share a narrow baseline. The low relief privileges readable silhouettes over deep spatial modelling.",
+      "Material & Technique": "Granular stone surface, shallow cut outlines and slightly projecting bodies are visible.",
+      "Architectural Placement": "Carved panel on the Mahanabami Dibba at Hampi; shown as a detail on 16 and as a recap on 25.",
+      "Costume & Ethnic Markers": "A long garment and head covering distinguish the handler. The caption says Arab (?) and does not establish ethnicity from costume alone."
+    },
+    "field_coverage": {
+      "Subject & Narrative": "reviewed",
+      "Iconographic Attributes": "not_established",
+      "Pose & Gesture": "reviewed",
+      "Material & Technique": "reviewed",
+      "Architectural Placement": "reviewed",
+      "Costume & Ethnic Markers": "reviewed"
+    },
+    "context": {
+      "artist_date_as_indexed": [],
+      "historical_context_as_indexed": [
+        "Ebb and Flow: Art and Globalism of Oceanic Networks",
+        "Trade connections",
+        "Mahanabami Dibba and Cultural/Trade Connections"
+      ],
+      "patronage": "No specific commissioner is established beyond any explicit patron named in the retained lecture evidence.",
+      "cross_cultural_contact_evidence": "The lecture treats horses alongside steel and textiles as evidence of interregional commerce.",
+      "lecture_notes": [
+        {
+          "text": "Right. The image recurs on slide 16, where the caption tentatively identifies an Arab trader.",
+          "row_id": "m1-p01-r03"
+        },
+        {
+          "text": "Left. The caption asks whether the trader is Arab. The lecture connects the horse trade with steel and textiles.",
+          "row_id": "m1-p16-r01"
+        },
+        {
+          "text": "Lower left. Repeats slide 16, which questions the trader’s identification.",
+          "row_id": "m1-p25-r03"
+        }
+      ],
+      "accession_numbers": []
+    },
+    "significance": {
+      "economic/trade": "The lecture treats horses alongside steel and textiles as evidence of interregional commerce.",
+      "political": "The image brings trading personnel and animals into a royal monumental programme."
+    },
+    "feature_ids": [
+      "horse-trade",
+      "relief-registers"
+    ],
+    "comparisons": [],
+    "distinctions": [
+      "The trader’s Arab identity is tentative; horse imagery is evidence used in a trade argument, not proof of one individual’s origin."
+    ],
+    "uncertainties": [],
+    "status": "sourced",
+    "image_references": [
+      {
+        "module": 1,
+        "slide": 1,
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "image": "slides/module-1/page_1.png",
+        "image_sha256": "1c2765abc9d82fae38ef036f53312f0860377710c597fdd64565b524318bfa07",
+        "text": "corpus_data/slide_text/module-1/page_1.txt"
+      },
+      {
+        "module": 1,
+        "slide": 16,
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "image": "slides/module-1/page_16.png",
+        "image_sha256": "34495c4079a55f109b7e6f105d8ea80491c50918cf171a6b7d913f826f03f0d1",
+        "text": "corpus_data/slide_text/module-1/page_16.txt"
+      },
+      {
+        "module": 1,
+        "slide": 25,
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "image": "slides/module-1/page_25.png",
+        "image_sha256": "319bf035fe2853cf352e7734aae5048896ba8607d3c2cdf63b53fe9f6e63148d",
+        "text": "corpus_data/slide_text/module-1/page_25.txt"
+      }
+    ],
+    "lecture_references": [
+      {
+        "module": 1,
+        "slide": 1,
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "image": "slides/module-1/page_1.png",
+        "image_sha256": "1c2765abc9d82fae38ef036f53312f0860377710c597fdd64565b524318bfa07",
+        "text": "corpus_data/slide_text/module-1/page_1.txt"
+      },
+      {
+        "module": 1,
+        "slide": 16,
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "image": "slides/module-1/page_16.png",
+        "image_sha256": "34495c4079a55f109b7e6f105d8ea80491c50918cf171a6b7d913f826f03f0d1",
+        "text": "corpus_data/slide_text/module-1/page_16.txt"
+      },
+      {
+        "module": 1,
+        "slide": 25,
+        "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+        "image": "slides/module-1/page_25.png",
+        "image_sha256": "319bf035fe2853cf352e7734aae5048896ba8607d3c2cdf63b53fe9f6e63148d",
+        "text": "corpus_data/slide_text/module-1/page_25.txt"
+      }
+    ],
+    "vision_method": "In-session Codex visual review of slide overviews and selected unresized detail crops; exact model version and internal resampling are not exposed. Text-only review for concept_term and theme_discourse.",
+    "evidence_basis": {
+      "sections": "In-session visual review cross-checked with lecture captions; text-only argument review for theme_discourse/concept_term.",
+      "context": "Unaltered index assertions; no blanket independent verification.",
+      "significance": "Labelled course interpretation of visible/captioned evidence. External term meanings are grounded separately in Stage 3."
+    },
+    "input_sha256": "85b6a955246deedb40ce072bf73f9544d0e78363363314021f1eb5adb1ae9a0d"
+  }
+]

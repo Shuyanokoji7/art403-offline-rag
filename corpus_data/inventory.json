@@ -1,0 +1,74 @@
+[
+  {
+    "module": 1,
+    "pdf": "ART403_Module 1_9044f24f-f508-4420-82ce-532b0e70fc37 (1).pdf",
+    "pdf_sha256": "8126141202f6977ae86c72baa112b8b04ee383db3024f565655d83dcbf4e398e",
+    "pages": 25,
+    "dpi": 300,
+    "width": 3000,
+    "height": 2250
+  },
+  {
+    "module": 2,
+    "pdf": "ART403_Module 2_3f358e51-d12c-4c5e-a276-58219efbd580 (1).pdf",
+    "pdf_sha256": "c116c1a9f73c1050f5ff5afbd0b4fa6484deaefba17074ada36ff51a019819e0",
+    "pages": 16,
+    "dpi": 300,
+    "width": 3000,
+    "height": 2250
+  },
+  {
+    "module": 3,
+    "pdf": "ART403_Module 3_fb0275af-0433-4c19-be51-99eefe44571f.pdf",
+    "pdf_sha256": "0fe35251d5bf27e2d0d5a7198095d946413c71ef5aaf9e66df5625ae79ddb202",
+    "pages": 25,
+    "dpi": 300,
+    "width": 3000,
+    "height": 2250
+  },
+  {
+    "module": 4,
+    "pdf": "ART403_Module 4_331661f6-0624-4f9d-a82b-d8befce701ff.pdf",
+    "pdf_sha256": "bf2ec712f282739ad50907b9d4a7bf45c941eb379933c98bdb1f28e0ba51aa0b",
+    "pages": 10,
+    "dpi": 300,
+    "width": 3000,
+    "height": 2250
+  },
+  {
+    "module": 5,
+    "pdf": "ART403_Module 5_b2f62016-98ab-417f-8042-ef1f8e3b5a37.pdf",
+    "pdf_sha256": "b98908926ac8a479247cde195f0892b351a83c60b4731f41b17c26b5b35d456e",
+    "pages": 24,
+    "dpi": 300,
+    "width": 3000,
+    "height": 2250
+  },
+  {
+    "module": 6,
+    "pdf": "ART403_Module 6_ef7b407d-fc07-46d8-bdff-7cbb89cfb98e.pdf",
+    "pdf_sha256": "141ffac525d867f07e4705e912c7d57f510fa83cfd24768fcca2d4e06da28644",
+    "pages": 21,
+    "dpi": 300,
+    "width": 3000,
+    "height": 2250
+  },
+  {
+    "module": 7,
+    "pdf": "ART403_Module 7_e55eb04b-1311-4690-81d4-0ba63b2e0720.pdf",
+    "pdf_sha256": "9f62bcb18216ca0607029b59e24ca7e721ffbc4b3115c5089ce996113a04e79c",
+    "pages": 14,
+    "dpi": 300,
+    "width": 3000,
+    "height": 2250
+  },
+  {
+    "module": 8,
+    "pdf": "ART403_Module 8_973cfeef-bbad-450c-a5be-376226c02303.pdf",
+    "pdf_sha256": "14a58ff7f5b8a52ba56aa1ba153bd2e46fb0a0b918d4cc64587ae3a9480af25f",
+    "pages": 20,
+    "dpi": 300,
+    "width": 3000,
+    "height": 2250
+  }
+]

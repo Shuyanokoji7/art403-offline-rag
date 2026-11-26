@@ -1,0 +1,73 @@
+{
+  "version": "confidence-v2",
+  "updated": "2026-11-22",
+  "status": "complete",
+  "pilot": {
+    "rows": [
+      "m1-p01-r01",
+      "m1-p01-r02",
+      "m1-p01-r03"
+    ],
+    "displayed_before_full_reprocessing": true,
+    "editorial_assessment": "pass",
+    "user_condition": "Proceed after the pilot correctly states the cross-media argument and removes field-level hedging.",
+    "image_review": "Three cover images reinspected using native-pixel crops.",
+    "visual_clarification": "Flowers recur on ceramic and textile. The stone relief supplies a handler, two horses and the trade/contact dimension; it does not repeat their flowers.",
+    "checks": [
+      "Visible observations stated plainly",
+      "Course readings labelled",
+      "Same-slide and same-heading neighbours named and linked",
+      "One consolidated attribution note",
+      "Ceramic dish uses decorative_object",
+      "One concrete distractor and direct correction per article"
+    ],
+    "before_field_coverage": {
+      "reviewed": 11,
+      "not_established": 6
+    }
+  },
+  "full_corpus": {
+    "entities": 223,
+    "shared_features": 117,
+    "articles": 340,
+    "slides": 155,
+    "indexed_rows": 269,
+    "slide_arguments": 155,
+    "exam_distractors": 340,
+    "draft_articles": 48,
+    "revised_field_coverage": {
+      "included": 736,
+      "omitted": 348
+    }
+  },
+  "review_scope": "Editorial reprocessing of all existing visual reviews and shared features; authored arguments for all 155 slides; review of entity and feature distractor/correction pairs. Only the three pilot images were freshly reinspected for this revision.",
+  "pipeline_changes": [
+    "Eleven type routes including decorative_object",
+    "Applicable field menus with no generic null fallback",
+    "Claim-level Tier 1 / Tier 2 provenance and consolidated Tier 3 notes",
+    "Neighbour images, source rows and grouping arguments included in cache inputs and future review requests",
+    "Explicit entity and feature distractor corrections required",
+    "Context, attribution and false exam statements distinguished in retrieval metadata",
+    "Audit rejects missing neighbours, empty fields, repeated attribution caveats and missing exam distinctions"
+  ],
+  "validation": {
+    "audit": "corpus_data/validation/audit.json",
+    "status": "pass",
+    "regression_tests": {
+      "passed": 20,
+      "failed": 0,
+      "command": "python corpus_pipeline/test_pipeline.py",
+      "result": "Ran 20 tests; OK (completed before the cache rerun)."
+    },
+    "resume_check": "corpus_data/validation/resume_test.json",
+    "unchanged_files_on_rerun": 347,
+    "broken_local_links": 0
+  },
+  "original_backup": "corpus_data/revisions/confidence-v2/before/",
+  "corrected_pilot_articles": [
+    "articles/module-1/uncaptioned-floral-dish-on-the-course-cover.md",
+    "articles/module-1/uncaptioned-floral-garment-detail-on-the-course-cover.md",
+    "articles/module-1/trader-with-horses-mahanabami-dibba-relief.md"
+  ],
+  "original_backup_scope": "The three pilot entries and their original articles; the backup JSON files are scoped to that pilot."
+}

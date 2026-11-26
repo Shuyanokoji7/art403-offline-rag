@@ -1,0 +1,72 @@
+[
+  {
+    "id": "uncaptioned-floral-dish-on-the-course-cover",
+    "row_id": "m1-p01-r01",
+    "title": "Floral ceramic dish — course cover",
+    "type": "decorative_object",
+    "sections": {
+      "Form & Surface": "A shallow circular ceramic dish has a glossy white surface and a narrow red-edged rim. A double red circle encloses the central flower group.",
+      "Colour & Motifs": "Two upright red flowers with dark blue bases fill the centre, among green leaves and slender flowering stems. Three large blue-and-red flower groups turn around the outer field. Green leaves, looping red stems and small rosettes fill the spaces between them.",
+      "Composition": "The centre presents the flowers upright; the outer groups rotate around it. The circular frame makes the same floral vocabulary work at two scales: a small central arrangement and an enlarged surrounding repeat."
+    },
+    "slide_context": "Course reading: Under ‘Ebb and Flow: Art and Globalism of Oceanic Networks,’ the upper-left dish is grouped with the lower-left floral fabric (m1-p01-r02) and the trader-and-horses stone relief at right (m1-p01-r03). Flowers recur across ceramic and textile, while the relief supplies the people and traded animals that make the contact argument concrete. Together the three media introduce the circulation of goods, designs and artisanal knowledge through trade. Slides 2–3 develop that argument through the Paigah Tombs and the Coromandel kalamkari hanging, connecting ornament to human interaction and the movement of making practices.",
+    "significance": {
+      "economic/trade": "Course reading: Floral design across ceramic and textile, paired with the horse trader, makes ornament part of the lecture’s account of contact and exchange.",
+      "social": "Course reading: The grouping connects finished objects to the movement of people and artisanal knowledge, made explicit on slide 2.",
+      "visual/aesthetic": "Course reading: Repetition and circular framing adapt a floral vocabulary to the dish’s curved surface."
+    },
+    "unknown_facts": ["maker", "exact date", "place of manufacture", "specific ceramic body"],
+    "distractor": {
+      "claim": "The cover juxtaposition is significant only for repeating floral decoration across materials.",
+      "why_wrong": "That answer omits the economic/trade and social dimensions: the trader-and-horses relief connects the decorated objects to traded goods, mobile people and artisanal knowledge.",
+      "category": "missing_significance_dimensions"
+    }
+  },
+  {
+    "id": "uncaptioned-floral-garment-detail-on-the-course-cover",
+    "row_id": "m1-p01-r02",
+    "title": "Floral fabric detail — course cover",
+    "type": "textile",
+    "sections": {
+      "Field & Border Organization": "Two decorated panels flank a pale vertical strip. Red outer edges enclose cream floral borders, dark green upper fields and red lower fields. The borders follow the panels’ curved and angled edges.",
+      "Colour & Motifs": "Red flowers and long-tailed birds occupy the green fields. Gold-coloured linework outlines curling stems, leaves, petals and wings. Small red flowers repeat along the cream borders; blue flowers appear in the lower red field.",
+      "Composition": "The pale centre separates the paired patterned panels. Dense small-scale stems and flowers contrast with the dish’s larger, widely spaced floral forms above."
+    },
+    "slide_context": "Course reading: The lower-left textile is paired with the floral ceramic dish above (m1-p01-r01) and the stone trader-and-horses relief at right (m1-p01-r03), under the oceanic-networks heading. The recurring flowers connect design across ceramic and textile; the trader supplies the commercial and human relationship within which such cross-media connections are studied. The argument is about circulating motifs, goods and craft knowledge. The Paigah Tombs on slide 2 extend it into architectural ornament, and the kalamkari hanging on slide 3 makes material, technique and human interaction explicit.",
+    "significance": {
+      "economic/trade": "Course reading: The textile belongs to a comparison of decorated goods linked through circulation and contact.",
+      "social": "Course reading: Changes in material and surface draw attention to the makers who translate designs between practices.",
+      "visual/aesthetic": "Course reading: The floral vocabulary adapts to paired panels and narrow borders rather than the dish’s concentric field."
+    },
+    "unknown_facts": ["maker", "exact date", "place of manufacture", "fibre and precise decorative technique"],
+    "distractor": {
+      "claim": "The floral dish and fabric demonstrate that the same manufacturing technique was used on ceramic and cloth.",
+      "why_wrong": "The comparison concerns a design vocabulary across different supports. The dish arranges flowers concentrically; the fabric fits flowers and birds into panels and borders. Shared motifs do not make their manufacturing operations identical.",
+      "category": "motif_vs_technique"
+    }
+  },
+  {
+    "id": "trader-with-horses-mahanabami-dibba-relief",
+    "row_id": "m1-p01-r03",
+    "title": "Trader with horses — Mahanabami Dibba relief",
+    "type": "sculpture_relief",
+    "sections": {
+      "Subject & Composition": "A standing figure occupies the centre between two inward-facing horses. The horses’ heads turn toward the figure, making the handler the point where the two halves of the panel meet.",
+      "Pose & Gesture": "The figure bends both arms outward toward the horses. A long garment falls toward the lower edge, and a pointed head covering rises above the face. The figures share a shallow horizontal ground.",
+      "Material & Technique": "The scene is carved in low relief on grainy stone. Cut outlines separate the horses’ heads, necks and legs from the background; the bodies project from the flat surrounding surface.",
+      "Course Identification": "Course reading: The index identifies the panel as a trader with horses from the Mahanabami Dibba at Hampi. Its return on slide 16 places the horse trader beside steel and textiles under ‘Trade connections’; slide 25 returns it to the module’s cultural/trade recap."
+    },
+    "slide_context": "Course reading: On the cover, the relief at right accompanies the floral dish at upper left (m1-p01-r01) and floral fabric at lower left (m1-p01-r02). The ceramic and textile share floral design; the stone relief contributes the trader, horses and movement of goods. Their complementary roles turn the three-medium juxtaposition into an argument about trade/contact and the circulation of artisanal knowledge. The Paigah Tombs and kalamkari hanging on slides 2–3 carry this argument into architecture and named textile practice.",
+    "significance": {
+      "economic/trade": "Course reading: Horses and their handler make interregional commerce visible; slide 16 explicitly connects the horse trade with steel and textiles.",
+      "social": "Course reading: The handler gives human agency a place beside the decorated objects: goods circulate through people’s activity.",
+      "political": "Course reading: A trader and valued animals enter the visual programme of a royal ceremonial monument."
+    },
+    "unknown_facts": ["the trader’s individual identity and the queried Arab identification"],
+    "distractor": {
+      "claim": "The relief illustrates floral ornament translated into stone, completing the cover’s three examples of the same decorative motif.",
+      "why_wrong": "Its visible subject is a handler with two horses. It complements the floral dish and textile by introducing people and trade, rather than repeating their flowers.",
+      "category": "same_slide_role_confusion"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+# --- Large generated / exported assets (regenerate from source PDFs) ---
+slides/**/*.png
+corpus_data/review_images/
+
+# --- Pipeline caches ---
+corpus_cache/
+
+# --- Built RAG index + embedding cache (rebuild with: python -m local_rag index) ---
+local_rag/data/*.sqlite3
+local_rag/data/index.lock
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# --- Env / secrets ---
+.env
+.env.*
+
+# --- OS / editor ---
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# --- Stale git dir from the CS-670 repo that previously lived here ---
+.git-cs670-backup/
